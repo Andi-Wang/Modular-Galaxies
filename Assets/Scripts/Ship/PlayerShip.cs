@@ -8,7 +8,7 @@ public class PlayerShip : Ship {
 
 
 
-    private void Move() {
+    public void Move(UnityStandardAssets._2D.PlayerInput.Input input) {
 
     }
 

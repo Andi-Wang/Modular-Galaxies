@@ -22,12 +22,17 @@ public class Ship : MonoBehaviour {
     public GameObject grazeboxPrefab;    //Narrowly avoiding projectiles, or "grazing", restores some energy (lore: by draining it from the projectile); implement in GrazeboxController by checking when a projectile leaves the graze area
 
     protected float health;
+    protected float energy;
 
 
 
 
     protected void takeDamage(float amount) {
         health -= amount;
+    }
+
+    protected void graze(float amount) {
+        energy += amount;
     }
 
 
