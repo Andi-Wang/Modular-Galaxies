@@ -7,15 +7,8 @@ namespace UnityStandardAssets._2D {
     [RequireComponent(typeof(PlayerShip))]
     public class PlayerInput : MonoBehaviour {
         public class Input {
-            public bool prevUp;
-            public bool prevDown;
-            public bool prevLeft;
-            public bool prevRight;
-
-            public bool up;
-            public bool down;
-            public bool left;
-            public bool right;
+            public float horizontal;
+            public float vertical;
 
             public bool fireDown;
             public bool fireHold;
@@ -25,22 +18,19 @@ namespace UnityStandardAssets._2D {
             public bool specialHold;
             public bool specialUp;
 
+            public bool afterburnerDown;
+            public bool afterburnerHold;
+            public bool afterburnerUp;
+
             public void reset() {
-                prevUp = up;
-                prevDown = down;
-                prevLeft = left;
-                prevRight = right;
-
-                up = false;
-                down = false;
-                left = false;
-                right = false;
-
                 fireDown = false;
                 fireUp = false;
 
                 specialDown = false;
                 specialUp = false;
+
+                afterburnerDown = false;
+                afterburnerUp = false;
             }
         }
 
@@ -50,25 +40,24 @@ namespace UnityStandardAssets._2D {
         // Use this for initialization
         private void Awake() {
             input = new Input();
-            player = GameObject.Find("PlayerShip").GetComponent<PlayerShip>();
+            player = gameObject.GetComponent<PlayerShip>();
         }
 
         // Update is called once per frame
         private void Update() {
-            if (!input.fireDown)    { input.fireDown = CrossPlatformInputManager.GetButtonDown("Fire"); }
-            if (!input.fireUp)      { input.fireDown = CrossPlatformInputManager.GetButtonUp("Fire"); }
-            if (!input.specialDown) { input.fireDown = CrossPlatformInputManager.GetButtonDown("Special"); }
-            if (!input.specialDown) { input.fireDown = CrossPlatformInputManager.GetButtonUp("Special"); }
-
-            if (CrossPlatformInputManager.GetAxis("Vertical") > 0)   { input.up = true; }
-            if (CrossPlatformInputManager.GetAxis("Vertical") < 0)   { input.down = true; }
-            if (CrossPlatformInputManager.GetAxis("Horizontal") < 0) { input.left = true; }
-            if (CrossPlatformInputManager.GetAxis("Horizontal") > 0) { input.right = true; }
+            if (!input.fireDown)        { input.fireDown = CrossPlatformInputManager.GetButtonDown("Fire"); }
+            if (!input.fireUp)          { input.fireDown = CrossPlatformInputManager.GetButtonUp("Fire"); }
+            if (!input.specialDown)     { input.fireDown = CrossPlatformInputManager.GetButtonDown("Special"); }
+            if (!input.specialUp)       { input.fireDown = CrossPlatformInputManager.GetButtonUp("Special"); }
+            if (!input.afterburnerDown) { input.fireDown = CrossPlatformInputManager.GetButtonDown("Afterburner"); }
+            if (!input.afterburnerUp)   { input.fireDown = CrossPlatformInputManager.GetButtonUp("Afterburner"); }
         }
 
         private void FixedUpdate() {
             input.fireHold = CrossPlatformInputManager.GetButton("Fire");
             input.specialHold = CrossPlatformInputManager.GetButton("Special");
+            input.horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
+            input.vertical = CrossPlatformInputManager.GetAxis("Vertical");
 
             player.Move(input);
             input.reset();
