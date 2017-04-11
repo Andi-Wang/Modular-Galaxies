@@ -15,7 +15,7 @@ public class ActiveShip : MonoBehaviour {
     protected float speed;
     
     protected Weapon weapon;
-    protected UtilityModule module;
+    protected Special module;
 
     public GameObject shipPrefab;
     

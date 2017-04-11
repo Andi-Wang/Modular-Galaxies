@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class UtilityModule : MonoBehaviour {
+public abstract class Special : MonoBehaviour {
     public float space { protected set; get; }
     public float weight { protected set; get; }
     public float complexity { protected set; get; }

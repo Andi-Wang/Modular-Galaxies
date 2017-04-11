@@ -17,8 +17,10 @@ public class Hangar : MonoBehaviour {
     protected int engineTier;
     protected int reactorTier;
     protected int armorTier;   
-    Weapon weapon;
-    UtilityModule module;
+    protected Weapon weapon;
+    protected Special special;
+
+    protected int shipSize;
 
     //After choosing a valid ship, creates a PlayerShip and attaches it to this playerManager
     public GameObject playerManager;
@@ -63,14 +65,14 @@ public class Hangar : MonoBehaviour {
 
 
     protected bool validateSpace() {
-        return spaceLimit >= Computer.space(computerTier) + Engine.space(engineTier) + Reactor.space(reactorTier) + Armor.space(armorTier) + weapon.space + module.space;
+        return spaceLimit >= Engine.space(engineTier) + Armor.space(shipSize, armorTier);
     }
 
     protected bool validateWeight() {
-        return weightLimit >= Computer.weight(computerTier) + Engine.weight(engineTier) + Reactor.weight(reactorTier) + Armor.weight(armorTier) + weapon.weight + module.weight;
+        return weightLimit >= Computer.weight(computerTier) + Engine.weight(engineTier) + Energy.weight(reactorTier) + Armor.weight(shipSize, armorTier) + weapon.weight + special.weight;
     }
 
     protected bool validateComplexity() {
-        return Computer.complexity(computerTier) >= Engine.complexity(engineTier) + Reactor.complexity(reactorTier) + weapon.complexity + module.complexity;
+        return Computer.complexity(computerTier) >= weapon.complexity + special.complexity;
     }
 }
