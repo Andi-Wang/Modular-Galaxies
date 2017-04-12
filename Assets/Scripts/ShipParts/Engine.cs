@@ -3,9 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Engine : MonoBehaviour {
+    public const int WIND = 0, 
+                     FIRE = 1;
+    public const float SMALL_SPEED_MOD = 1.1f,
+                       MEDIUM_SPEED_MOD = 0.575f,
+                       LARGE_SPEED_MOD = 0.375f;
 
     public static string name(int tier) {
-        string value = "";
+        string value = "None";
 
         switch (tier) {
             case 1: { value = "Spark Engine"; } break;
@@ -26,7 +31,37 @@ public class Engine : MonoBehaviour {
     }
 
 
+    public static int type(int tier) {
+        int value = -1;
 
+        switch (tier) {
+            case 1: { value = FIRE; } break;
+            case 2: { value = WIND; } break;
+            case 3: { value = FIRE; } break;
+            case 4: { value = WIND; } break;
+            case 5: { value = FIRE; } break;
+            case 6: { value = WIND; } break;
+            case 7: { value = FIRE; } break;
+            case 8: { value = WIND; } break;
+            case 9: { value = FIRE; } break;
+            case 10: { value = WIND; } break;
+            case 11: { value = FIRE; } break;
+            case 12: { value = WIND; } break;
+        }
+
+        return value;
+    }
+
+    public static string typeName(int type) {
+        string value = "None";
+
+        switch(type) {
+            case WIND: { value = "Wind"; } break;
+            case FIRE: { value = "Fire"; } break;
+        }
+
+        return value;
+    }
 
 
     public static float space(int tier) {
@@ -87,6 +122,23 @@ public class Engine : MonoBehaviour {
             case 10: { value = 370; } break;
             case 11: { value = 400; } break;
             case 12: { value = 430; } break;
+        }
+
+        return value;
+    }
+
+    public static float speed(int tier, int shipWeight, int shipSize) {
+        float baseSpeed = thrust(1) / Mathf.Log(Frame.MIN_WEIGHT) * SMALL_SPEED_MOD;
+        float value = thrust(tier) / Mathf.Log(shipWeight) / baseSpeed;
+
+        if (shipSize == Frame.SMALL) {
+            value *= SMALL_SPEED_MOD;
+        }
+        else if(shipSize == Frame.MEDIUM) {
+            value *= MEDIUM_SPEED_MOD;
+        }
+        else if(shipSize == Frame.LARGE) {
+            value *= MEDIUM_SPEED_MOD;
         }
 
         return value;

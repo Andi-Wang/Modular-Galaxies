@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Computer : MonoBehaviour {
     public static string name(int tier) {
-        string value = "";
+        string value = "None";
 
         switch (tier) {
             case 1: { value = "Orion Mark I"; } break;

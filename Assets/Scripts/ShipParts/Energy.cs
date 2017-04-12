@@ -9,7 +9,7 @@ public class Energy : MonoBehaviour {
 
 
     public static string name (int tier) {
-        string value = "";
+        string value = "None";
 
         switch (tier) {
             case 1: { value = "Lithium-Ion Cell"; } break;
@@ -30,7 +30,7 @@ public class Energy : MonoBehaviour {
     }
 
     public static int type(int tier) {
-        int value = 0;
+        int value = -1;
 
         switch (tier) {
             case 1: { value = BATTERY; } break;
@@ -45,6 +45,18 @@ public class Energy : MonoBehaviour {
             case 10: { value = SOLAR; } break;
             case 11: { value = SOLAR; } break;
             case 12: { value = SOLAR; } break;
+        }
+
+        return value;
+    }
+
+    public static string typeName(int type) {
+        string value = "None";
+
+        switch (type) {
+            case BATTERY: { value = "Battery"; } break;
+            case NUCLEAR: { value = "Nuclear"; } break;
+            case SOLAR: { value = "Solar"; } break;
         }
 
         return value;
