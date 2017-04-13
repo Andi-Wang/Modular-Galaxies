@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
 namespace UnityStandardAssets._2D {
-    [RequireComponent(typeof(PlayerShip))]
     public class PlayerInput : MonoBehaviour {
         public class Input {
             public float horizontal;
@@ -35,12 +34,12 @@ namespace UnityStandardAssets._2D {
         }
 
         private Input input;
-        private PlayerShip player;
+        public Ship player;
 
         // Use this for initialization
         private void Awake() {
             input = new Input();
-            player = gameObject.GetComponent<PlayerShip>();
+            player = gameObject.GetComponent<Ship>();
         }
 
         // Update is called once per frame
@@ -59,9 +58,10 @@ namespace UnityStandardAssets._2D {
             input.horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
             input.vertical = CrossPlatformInputManager.GetAxis("Vertical");
 
-            player.Move(input);
+            if (player) {
+                player.move(input);
+            }
             input.reset();
         }
     }
-
 }
