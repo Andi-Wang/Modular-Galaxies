@@ -10,22 +10,22 @@ public class Special : MonoBehaviour {
         "", "", "", "", "", //Frame 2: Lark
         "", "", "", "", "", //Frame 3: Shrike
         "", "", "", "", "", //Frame 4: Pigeon
-        "", "", "", "", "", //Frame 5: Nightjar
-        "", "", "", "", "", //Frame 6: Falcon
+        "", "", "", "", "", //Frame 5: Astrapia
+        "", "", "", "", "", //Frame 6: Magpie
 
-        "", "", "", "", "", //Frame 7: Magpie
-        "", "", "", "", "", //Frame 8: Buzzard
-        "", "", "", "", "", //Frame 9: Owl
-        "", "", "", "", "", //Frame 10: Kite
-        "", "", "", "", "", //Frame 11: Gull
+        "", "", "", "", "", //Frame 7: Nightjar
+        "", "", "", "", "", //Frame 8: Falcon
+        "", "", "", "", "", //Frame 9: Kite
+        "", "", "", "", "", //Frame 10: Gull
+        "", "", "", "", "", //Frame 11: Osprey
         "", "", "", "", "", //Frame 12: Eagle
 
-        "", "", "", "", "", //Frame 13: Ibis
+        "", "", "", "", "", //Frame 13: Peafowl
         "", "", "", "", "", //Frame 14: Crane
         "", "", "", "", "", //Frame 15: Pelican
         "", "", "", "", "", //Frame 16: Vulture
-        "", "", "", "", "", //Frame 17: Condor
-        "", "", "", "", ""  //Frame 18: Albatross
+        "", "", "", "", "", //Frame 17: Albatross
+        "", "", "", "", ""  //Frame 18: Condor
     };
 
     private static int[] complexities = new int[] {
@@ -33,22 +33,22 @@ public class Special : MonoBehaviour {
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
-        0, 0, 0, 0, 0, //Frame 5: Nightjar
-        0, 0, 0, 0, 0, //Frame 6: Falcon
+        0, 0, 0, 0, 0, //Frame 5: Astrapia
+        0, 0, 0, 0, 0, //Frame 6: Magpie
 
-        0, 0, 0, 0, 0, //Frame 7: Magpie
-        0, 0, 0, 0, 0, //Frame 8: Buzzard
-        0, 0, 0, 0, 0, //Frame 9: Owl
-        0, 0, 0, 0, 0, //Frame 10: Kite
-        0, 0, 0, 0, 0, //Frame 11: Gull
+        0, 0, 0, 0, 0, //Frame 7: Nightjar
+        0, 0, 0, 0, 0, //Frame 8: Falcon
+        0, 0, 0, 0, 0, //Frame 9: Kite
+        0, 0, 0, 0, 0, //Frame 10: Gull
+        0, 0, 0, 0, 0, //Frame 11: Osprey
         0, 0, 0, 0, 0, //Frame 12: Eagle
 
-        0, 0, 0, 0, 0, //Frame 13: Ibis
+        0, 0, 0, 0, 0, //Frame 13: Peafowl
         0, 0, 0, 0, 0, //Frame 14: Crane
         0, 0, 0, 0, 0, //Frame 15: Pelican
         0, 0, 0, 0, 0, //Frame 16: Vulture
-        0, 0, 0, 0, 0, //Frame 17: Condor
-        0, 0, 0, 0, 0  //Frame 18: Albatross
+        0, 0, 0, 0, 0, //Frame 17: Albatross
+        0, 0, 0, 0, 0  //Frame 18: Condor
     };
 
     private static int[] weights = new int[] {
@@ -56,22 +56,22 @@ public class Special : MonoBehaviour {
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
-        0, 0, 0, 0, 0, //Frame 5: Nightjar
-        0, 0, 0, 0, 0, //Frame 6: Falcon
+        0, 0, 0, 0, 0, //Frame 5: Astrapia
+        0, 0, 0, 0, 0, //Frame 6: Magpie
 
-        0, 0, 0, 0, 0, //Frame 7: Magpie
-        0, 0, 0, 0, 0, //Frame 8: Buzzard
-        0, 0, 0, 0, 0, //Frame 9: Owl
-        0, 0, 0, 0, 0, //Frame 10: Kite
-        0, 0, 0, 0, 0, //Frame 11: Gull
+        0, 0, 0, 0, 0, //Frame 7: Nightjar
+        0, 0, 0, 0, 0, //Frame 8: Falcon
+        0, 0, 0, 0, 0, //Frame 9: Kite
+        0, 0, 0, 0, 0, //Frame 10: Gull
+        0, 0, 0, 0, 0, //Frame 11: Osprey
         0, 0, 0, 0, 0, //Frame 12: Eagle
 
-        0, 0, 0, 0, 0, //Frame 13: Ibis
+        0, 0, 0, 0, 0, //Frame 13: Peafowl
         0, 0, 0, 0, 0, //Frame 14: Crane
         0, 0, 0, 0, 0, //Frame 15: Pelican
         0, 0, 0, 0, 0, //Frame 16: Vulture
-        0, 0, 0, 0, 0, //Frame 17: Condor
-        0, 0, 0, 0, 0  //Frame 18: Albatross
+        0, 0, 0, 0, 0, //Frame 17: Albatross
+        0, 0, 0, 0, 0  //Frame 18: Condor
     };
 
     private static float[] drains = new float[] {
@@ -79,22 +79,22 @@ public class Special : MonoBehaviour {
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
-        0, 0, 0, 0, 0, //Frame 5: Nightjar
-        0, 0, 0, 0, 0, //Frame 6: Falcon
+        0, 0, 0, 0, 0, //Frame 5: Astrapia
+        0, 0, 0, 0, 0, //Frame 6: Magpie
 
-        0, 0, 0, 0, 0, //Frame 7: Magpie
-        0, 0, 0, 0, 0, //Frame 8: Buzzard
-        0, 0, 0, 0, 0, //Frame 9: Owl
-        0, 0, 0, 0, 0, //Frame 10: Kite
-        0, 0, 0, 0, 0, //Frame 11: Gull
+        0, 0, 0, 0, 0, //Frame 7: Nightjar
+        0, 0, 0, 0, 0, //Frame 8: Falcon
+        0, 0, 0, 0, 0, //Frame 9: Kite
+        0, 0, 0, 0, 0, //Frame 10: Gull
+        0, 0, 0, 0, 0, //Frame 11: Osprey
         0, 0, 0, 0, 0, //Frame 12: Eagle
 
-        0, 0, 0, 0, 0, //Frame 13: Ibis
+        0, 0, 0, 0, 0, //Frame 13: Peafowl
         0, 0, 0, 0, 0, //Frame 14: Crane
         0, 0, 0, 0, 0, //Frame 15: Pelican
         0, 0, 0, 0, 0, //Frame 16: Vulture
-        0, 0, 0, 0, 0, //Frame 17: Condor
-        0, 0, 0, 0, 0  //Frame 18: Albatross
+        0, 0, 0, 0, 0, //Frame 17: Albatross
+        0, 0, 0, 0, 0  //Frame 18: Condor
     };
 
     private static float[] cooldowns = new float[] {
@@ -102,22 +102,22 @@ public class Special : MonoBehaviour {
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
-        0, 0, 0, 0, 0, //Frame 5: Nightjar
-        0, 0, 0, 0, 0, //Frame 6: Falcon
+        0, 0, 0, 0, 0, //Frame 5: Astrapia
+        0, 0, 0, 0, 0, //Frame 6: Magpie
 
-        0, 0, 0, 0, 0, //Frame 7: Magpie
-        0, 0, 0, 0, 0, //Frame 8: Buzzard
-        0, 0, 0, 0, 0, //Frame 9: Owl
-        0, 0, 0, 0, 0, //Frame 10: Kite
-        0, 0, 0, 0, 0, //Frame 11: Gull
+        0, 0, 0, 0, 0, //Frame 7: Nightjar
+        0, 0, 0, 0, 0, //Frame 8: Falcon
+        0, 0, 0, 0, 0, //Frame 9: Kite
+        0, 0, 0, 0, 0, //Frame 10: Gull
+        0, 0, 0, 0, 0, //Frame 11: Osprey
         0, 0, 0, 0, 0, //Frame 12: Eagle
 
-        0, 0, 0, 0, 0, //Frame 13: Ibis
+        0, 0, 0, 0, 0, //Frame 13: Peafowl
         0, 0, 0, 0, 0, //Frame 14: Crane
         0, 0, 0, 0, 0, //Frame 15: Pelican
         0, 0, 0, 0, 0, //Frame 16: Vulture
-        0, 0, 0, 0, 0, //Frame 17: Condor
-        0, 0, 0, 0, 0  //Frame 18: Albatross
+        0, 0, 0, 0, 0, //Frame 17: Albatross
+        0, 0, 0, 0, 0  //Frame 18: Condor
     };
 
     public static string name(int tier) {

@@ -17,22 +17,22 @@ public class Frame : MonoBehaviour {
             case 2: { value = "Lark"; } break;
             case 3: { value = "Shrike"; } break;
             case 4: { value = "Pigeon"; } break;
-            case 5: { value = "Nightjar"; } break;
-            case 6: { value = "Falcon"; } break;
+            case 5: { value = "Astrapia"; } break;
+            case 6: { value = "Magpie"; } break;
 
-            case 7: { value = "Magpie"; } break;
-            case 8: { value = "Buzzard"; } break;
-            case 9: { value = "Owl"; } break;
-            case 10: { value = "Kite"; } break;
-            case 11: { value = "Gull"; } break;
+            case 7: { value = "Nightjar"; } break;
+            case 8: { value = "Falcon"; } break;
+            case 9: { value = "Kite"; } break;
+            case 10: { value = "Gull"; } break;
+            case 11: { value = "Osprey"; } break;
             case 12: { value = "Eagle"; } break;
 
-            case 13: { value = "Ibis"; } break;
+            case 13: { value = "Peafowl"; } break;
             case 14: { value = "Crane"; } break;
             case 15: { value = "Pelican"; } break;
             case 16: { value = "Vulture"; } break;
-            case 17: { value = "Condor"; } break;
-            case 18: { value = "Albatross"; } break;
+            case 17: { value = "Albatross"; } break;
+            case 18: { value = "Condor"; } break;
         }
 
         if(!value.Equals("None")) {
