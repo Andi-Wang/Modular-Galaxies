@@ -12,7 +12,6 @@ public class ProjectileController : MonoBehaviour {
 	protected void Awake() {
         setValidTargets();
         setLifespan();
-        setDamage();
     }
 
     protected void OnEnable() {
@@ -79,9 +78,9 @@ public class ProjectileController : MonoBehaviour {
     }
 
     protected virtual void setLifespan () {
-        lifespan = 1f;
+        lifespan = 2.5f;
     }
-    protected virtual void setDamage() {
-        damage = 50f;
+    public void setDamage(float amount) {
+        damage = amount;
     }
 }

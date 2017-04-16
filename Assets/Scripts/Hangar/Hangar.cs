@@ -30,6 +30,7 @@ public class Hangar : MonoBehaviour {
     //After choosing a valid ship, creates a PlayerShip and attaches it to this playerManager
     public UnityStandardAssets._2D.PlayerInput playerManager;
     public GameObject playerShipPool;
+    public GameObject HUD;
 
     public Image selectPanel;
     public Image modulePanel;
@@ -95,6 +96,7 @@ public class Hangar : MonoBehaviour {
             GameObject activeShip = null;
             for(int i = 0; i < playerShipPool.transform.childCount; i++) {
                 if(i == Frame.model(selectedFrame) - 1) {
+                    HUD.SetActive(true);
                     activeShip = playerShipPool.transform.GetChild(i).gameObject;
                     activeShip.SetActive(true);
                     activeShip.transform.position = new Vector2();

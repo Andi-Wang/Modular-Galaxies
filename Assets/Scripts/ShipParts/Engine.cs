@@ -7,7 +7,8 @@ public class Engine : MonoBehaviour {
                      FIRE = 1;
     public const float SMALL_SPEED_MOD = 1.1f,
                        MEDIUM_SPEED_MOD = 0.575f,
-                       LARGE_SPEED_MOD = 0.375f;
+                       LARGE_SPEED_MOD = 0.375f,
+                       BASE_SPEED = 7f;
 
     public static string name(int tier) {
         string value = "None";
@@ -128,8 +129,8 @@ public class Engine : MonoBehaviour {
     }
 
     public static float speed(int tier, int frameWeight, int frameSize) {
-        float baseSpeed = thrust(1) / Mathf.Log(Frame.MIN_WEIGHT) * SMALL_SPEED_MOD;
-        float value = thrust(tier) / Mathf.Log(frameWeight) / baseSpeed;
+        float baseline = thrust(1) / Mathf.Log(Frame.MIN_WEIGHT) * SMALL_SPEED_MOD;
+        float value = thrust(tier) / Mathf.Log(frameWeight) / baseline;
 
         if (frameSize == Frame.SMALL) {
             value *= SMALL_SPEED_MOD;
@@ -138,10 +139,10 @@ public class Engine : MonoBehaviour {
             value *= MEDIUM_SPEED_MOD;
         }
         else if(frameSize == Frame.LARGE) {
-            value *= MEDIUM_SPEED_MOD;
+            value *= LARGE_SPEED_MOD;
         }
 
-        return value;
+        return value * BASE_SPEED;
     }
 
     /*

@@ -1,0 +1,7622 @@
+fileFormatVersion: 2
+guid: 267c71b611b6f764caec468d534ebb70
+timeCreated: 1492291818
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 16ShipCollection_clean_0
+    21300002: 16ShipCollection_clean_1
+    21300004: 16ShipCollection_clean_2
+    21300006: 16ShipCollection_clean_3
+    21300008: 16ShipCollection_clean_4
+    21300010: 16ShipCollection_clean_5
+    21300012: 16ShipCollection_clean_6
+    21300014: 16ShipCollection_clean_7
+    21300016: 16ShipCollection_clean_8
+    21300018: 16ShipCollection_clean_9
+    21300020: 16ShipCollection_clean_10
+    21300022: 16ShipCollection_clean_11
+    21300024: 16ShipCollection_clean_12
+    21300026: 16ShipCollection_clean_13
+    21300028: 16ShipCollection_clean_14
+    21300030: 16ShipCollection_clean_15
+    21300032: 16ShipCollection_clean_16
+    21300034: 16ShipCollection_clean_17
+    21300036: 16ShipCollection_clean_18
+    21300038: 16ShipCollection_clean_19
+    21300040: 16ShipCollection_clean_20
+    21300042: 16ShipCollection_clean_21
+    21300044: 16ShipCollection_clean_22
+    21300046: 16ShipCollection_clean_23
+    21300048: 16ShipCollection_clean_24
+    21300050: 16ShipCollection_clean_25
+    21300052: 16ShipCollection_clean_26
+    21300054: 16ShipCollection_clean_27
+    21300056: 16ShipCollection_clean_28
+    21300058: 16ShipCollection_clean_29
+    21300060: 16ShipCollection_clean_30
+    21300062: 16ShipCollection_clean_31
+    21300064: 16ShipCollection_clean_32
+    21300066: 16ShipCollection_clean_33
+    21300068: 16ShipCollection_clean_34
+    21300070: 16ShipCollection_clean_35
+    21300072: 16ShipCollection_clean_36
+    21300074: 16ShipCollection_clean_37
+    21300076: 16ShipCollection_clean_38
+    21300078: 16ShipCollection_clean_39
+    21300080: 16ShipCollection_clean_40
+    21300082: 16ShipCollection_clean_41
+    21300084: 16ShipCollection_clean_42
+    21300086: 16ShipCollection_clean_43
+    21300088: 16ShipCollection_clean_44
+    21300090: 16ShipCollection_clean_45
+    21300092: 16ShipCollection_clean_46
+    21300094: 16ShipCollection_clean_47
+    21300096: 16ShipCollection_clean_48
+    21300098: 16ShipCollection_clean_49
+    21300100: 16ShipCollection_clean_50
+    21300102: 16ShipCollection_clean_51
+    21300104: 16ShipCollection_clean_52
+    21300106: 16ShipCollection_clean_53
+    21300108: 16ShipCollection_clean_54
+    21300110: 16ShipCollection_clean_55
+    21300112: 16ShipCollection_clean_56
+    21300114: 16ShipCollection_clean_57
+    21300116: 16ShipCollection_clean_58
+    21300118: 16ShipCollection_clean_59
+    21300120: 16ShipCollection_clean_60
+    21300122: 16ShipCollection_clean_61
+    21300124: 16ShipCollection_clean_62
+    21300126: 16ShipCollection_clean_63
+    21300128: 16ShipCollection_clean_64
+    21300130: 16ShipCollection_clean_65
+    21300132: 16ShipCollection_clean_66
+    21300134: 16ShipCollection_clean_67
+    21300136: 16ShipCollection_clean_68
+    21300138: 16ShipCollection_clean_69
+    21300140: 16ShipCollection_clean_70
+    21300142: 16ShipCollection_clean_71
+    21300144: 16ShipCollection_clean_72
+    21300146: 16ShipCollection_clean_73
+    21300148: 16ShipCollection_clean_74
+    21300150: 16ShipCollection_clean_75
+    21300152: 16ShipCollection_clean_76
+    21300154: 16ShipCollection_clean_77
+    21300156: 16ShipCollection_clean_78
+    21300158: 16ShipCollection_clean_79
+    21300160: 16ShipCollection_clean_80
+    21300162: 16ShipCollection_clean_81
+    21300164: 16ShipCollection_clean_82
+    21300166: 16ShipCollection_clean_83
+    21300168: 16ShipCollection_clean_84
+    21300170: 16ShipCollection_clean_85
+    21300172: 16ShipCollection_clean_86
+    21300174: 16ShipCollection_clean_87
+    21300176: 16ShipCollection_clean_88
+    21300178: 16ShipCollection_clean_89
+    21300180: 16ShipCollection_clean_90
+    21300182: 16ShipCollection_clean_91
+    21300184: 16ShipCollection_clean_92
+    21300186: 16ShipCollection_clean_93
+    21300188: 16ShipCollection_clean_94
+    21300190: 16ShipCollection_clean_95
+    21300192: 16ShipCollection_clean_96
+    21300194: 16ShipCollection_clean_97
+    21300196: 16ShipCollection_clean_98
+    21300198: 16ShipCollection_clean_99
+    21300200: 16ShipCollection_clean_100
+    21300202: 16ShipCollection_clean_101
+    21300204: 16ShipCollection_clean_102
+    21300206: 16ShipCollection_clean_103
+    21300208: 16ShipCollection_clean_104
+    21300210: 16ShipCollection_clean_105
+    21300212: 16ShipCollection_clean_106
+    21300214: 16ShipCollection_clean_107
+    21300216: 16ShipCollection_clean_108
+    21300218: 16ShipCollection_clean_109
+    21300220: 16ShipCollection_clean_110
+    21300222: 16ShipCollection_clean_111
+    21300224: 16ShipCollection_clean_112
+    21300226: 16ShipCollection_clean_113
+    21300228: 16ShipCollection_clean_114
+    21300230: 16ShipCollection_clean_115
+    21300232: 16ShipCollection_clean_116
+    21300234: 16ShipCollection_clean_117
+    21300236: 16ShipCollection_clean_118
+    21300238: 16ShipCollection_clean_119
+    21300240: 16ShipCollection_clean_120
+    21300242: 16ShipCollection_clean_121
+    21300244: 16ShipCollection_clean_122
+    21300246: 16ShipCollection_clean_123
+    21300248: 16ShipCollection_clean_124
+    21300250: 16ShipCollection_clean_125
+    21300252: 16ShipCollection_clean_126
+    21300254: 16ShipCollection_clean_127
+    21300256: 16ShipCollection_clean_128
+    21300258: 16ShipCollection_clean_129
+    21300260: 16ShipCollection_clean_130
+    21300262: 16ShipCollection_clean_131
+    21300264: 16ShipCollection_clean_132
+    21300266: 16ShipCollection_clean_133
+    21300268: 16ShipCollection_clean_134
+    21300270: 16ShipCollection_clean_135
+    21300272: 16ShipCollection_clean_136
+    21300274: 16ShipCollection_clean_137
+    21300276: 16ShipCollection_clean_138
+    21300278: 16ShipCollection_clean_139
+    21300280: 16ShipCollection_clean_140
+    21300282: 16ShipCollection_clean_141
+    21300284: 16ShipCollection_clean_142
+    21300286: 16ShipCollection_clean_143
+    21300288: 16ShipCollection_clean_144
+    21300290: 16ShipCollection_clean_145
+    21300292: 16ShipCollection_clean_146
+    21300294: 16ShipCollection_clean_147
+    21300296: 16ShipCollection_clean_148
+    21300298: 16ShipCollection_clean_149
+    21300300: 16ShipCollection_clean_150
+    21300302: 16ShipCollection_clean_151
+    21300304: 16ShipCollection_clean_152
+    21300306: 16ShipCollection_clean_153
+    21300308: 16ShipCollection_clean_154
+    21300310: 16ShipCollection_clean_155
+    21300312: 16ShipCollection_clean_156
+    21300314: 16ShipCollection_clean_157
+    21300316: 16ShipCollection_clean_158
+    21300318: 16ShipCollection_clean_159
+    21300320: 16ShipCollection_clean_160
+    21300322: 16ShipCollection_clean_161
+    21300324: 16ShipCollection_clean_162
+    21300326: 16ShipCollection_clean_163
+    21300328: 16ShipCollection_clean_164
+    21300330: 16ShipCollection_clean_165
+    21300332: 16ShipCollection_clean_166
+    21300334: 16ShipCollection_clean_167
+    21300336: 16ShipCollection_clean_168
+    21300338: 16ShipCollection_clean_169
+    21300340: 16ShipCollection_clean_170
+    21300342: 16ShipCollection_clean_171
+    21300344: 16ShipCollection_clean_172
+    21300346: 16ShipCollection_clean_173
+    21300348: 16ShipCollection_clean_174
+    21300350: 16ShipCollection_clean_175
+    21300352: 16ShipCollection_clean_176
+    21300354: 16ShipCollection_clean_177
+    21300356: 16ShipCollection_clean_178
+    21300358: 16ShipCollection_clean_179
+    21300360: 16ShipCollection_clean_180
+    21300362: 16ShipCollection_clean_181
+    21300364: 16ShipCollection_clean_182
+    21300366: 16ShipCollection_clean_183
+    21300368: 16ShipCollection_clean_184
+    21300370: 16ShipCollection_clean_185
+    21300372: 16ShipCollection_clean_186
+    21300374: 16ShipCollection_clean_187
+    21300376: 16ShipCollection_clean_188
+    21300378: 16ShipCollection_clean_189
+    21300380: 16ShipCollection_clean_190
+    21300382: 16ShipCollection_clean_191
+    21300384: 16ShipCollection_clean_192
+    21300386: 16ShipCollection_clean_193
+    21300388: 16ShipCollection_clean_194
+    21300390: 16ShipCollection_clean_195
+    21300392: 16ShipCollection_clean_196
+    21300394: 16ShipCollection_clean_197
+    21300396: 16ShipCollection_clean_198
+    21300398: 16ShipCollection_clean_199
+    21300400: 16ShipCollection_clean_200
+    21300402: 16ShipCollection_clean_201
+    21300404: 16ShipCollection_clean_202
+    21300406: 16ShipCollection_clean_203
+    21300408: 16ShipCollection_clean_204
+    21300410: 16ShipCollection_clean_205
+    21300412: 16ShipCollection_clean_206
+    21300414: 16ShipCollection_clean_207
+    21300416: 16ShipCollection_clean_208
+    21300418: 16ShipCollection_clean_209
+    21300420: 16ShipCollection_clean_210
+    21300422: 16ShipCollection_clean_211
+    21300424: 16ShipCollection_clean_212
+    21300426: 16ShipCollection_clean_213
+    21300428: 16ShipCollection_clean_214
+    21300430: 16ShipCollection_clean_215
+    21300432: 16ShipCollection_clean_216
+    21300434: 16ShipCollection_clean_217
+    21300436: 16ShipCollection_clean_218
+    21300438: 16ShipCollection_clean_219
+    21300440: 16ShipCollection_clean_220
+    21300442: 16ShipCollection_clean_221
+    21300444: 16ShipCollection_clean_222
+    21300446: 16ShipCollection_clean_223
+    21300448: 16ShipCollection_clean_224
+    21300450: 16ShipCollection_clean_225
+    21300452: 16ShipCollection_clean_226
+    21300454: 16ShipCollection_clean_227
+    21300456: 16ShipCollection_clean_228
+    21300458: 16ShipCollection_clean_229
+    21300460: 16ShipCollection_clean_230
+    21300462: 16ShipCollection_clean_231
+    21300464: 16ShipCollection_clean_232
+    21300466: 16ShipCollection_clean_233
+    21300468: 16ShipCollection_clean_234
+    21300470: 16ShipCollection_clean_235
+    21300472: 16ShipCollection_clean_236
+    21300474: 16ShipCollection_clean_237
+    21300476: 16ShipCollection_clean_238
+    21300478: 16ShipCollection_clean_239
+    21300480: 16ShipCollection_clean_240
+    21300482: 16ShipCollection_clean_241
+    21300484: 16ShipCollection_clean_242
+    21300486: 16ShipCollection_clean_243
+    21300488: 16ShipCollection_clean_244
+    21300490: 16ShipCollection_clean_245
+    21300492: 16ShipCollection_clean_246
+    21300494: 16ShipCollection_clean_247
+    21300496: 16ShipCollection_clean_248
+    21300498: 16ShipCollection_clean_249
+    21300500: 16ShipCollection_clean_250
+    21300502: 16ShipCollection_clean_251
+    21300504: 16ShipCollection_clean_252
+    21300506: 16ShipCollection_clean_253
+    21300508: 16ShipCollection_clean_254
+    21300510: 16ShipCollection_clean_255
+    21300512: 16ShipCollection_clean_256
+    21300514: 16ShipCollection_clean_257
+    21300516: 16ShipCollection_clean_258
+    21300518: 16ShipCollection_clean_259
+    21300520: 16ShipCollection_clean_260
+    21300522: 16ShipCollection_clean_261
+    21300524: 16ShipCollection_clean_262
+    21300526: 16ShipCollection_clean_263
+    21300528: 16ShipCollection_clean_264
+    21300530: 16ShipCollection_clean_265
+    21300532: 16ShipCollection_clean_266
+    21300534: 16ShipCollection_clean_267
+    21300536: 16ShipCollection_clean_268
+    21300538: 16ShipCollection_clean_269
+    21300540: 16ShipCollection_clean_270
+    21300542: 16ShipCollection_clean_271
+    21300544: 16ShipCollection_clean_272
+    21300546: 16ShipCollection_clean_273
+    21300548: 16ShipCollection_clean_274
+    21300550: 16ShipCollection_clean_275
+    21300552: 16ShipCollection_clean_276
+    21300554: 16ShipCollection_clean_277
+    21300556: 16ShipCollection_clean_278
+    21300558: 16ShipCollection_clean_279
+    21300560: 16ShipCollection_clean_280
+    21300562: 16ShipCollection_clean_281
+    21300564: 16ShipCollection_clean_282
+    21300566: 16ShipCollection_clean_283
+    21300568: 16ShipCollection_clean_284
+    21300570: 16ShipCollection_clean_285
+    21300572: 16ShipCollection_clean_286
+    21300574: 16ShipCollection_clean_287
+    21300576: 16ShipCollection_clean_288
+    21300578: 16ShipCollection_clean_289
+    21300580: 16ShipCollection_clean_290
+    21300582: 16ShipCollection_clean_291
+    21300584: 16ShipCollection_clean_292
+    21300586: 16ShipCollection_clean_293
+    21300588: 16ShipCollection_clean_294
+    21300590: 16ShipCollection_clean_295
+    21300592: 16ShipCollection_clean_296
+    21300594: 16ShipCollection_clean_297
+    21300596: 16ShipCollection_clean_298
+    21300598: 16ShipCollection_clean_299
+    21300600: 16ShipCollection_clean_300
+    21300602: 16ShipCollection_clean_301
+    21300604: 16ShipCollection_clean_302
+    21300606: 16ShipCollection_clean_303
+    21300608: 16ShipCollection_clean_304
+    21300610: 16ShipCollection_clean_305
+    21300612: 16ShipCollection_clean_306
+    21300614: 16ShipCollection_clean_307
+    21300616: 16ShipCollection_clean_308
+    21300618: 16ShipCollection_clean_309
+    21300620: 16ShipCollection_clean_310
+    21300622: 16ShipCollection_clean_311
+    21300624: 16ShipCollection_clean_312
+    21300626: 16ShipCollection_clean_313
+    21300628: 16ShipCollection_clean_314
+    21300630: 16ShipCollection_clean_315
+    21300632: 16ShipCollection_clean_316
+    21300634: 16ShipCollection_clean_317
+    21300636: 16ShipCollection_clean_318
+    21300638: 16ShipCollection_clean_319
+    21300640: 16ShipCollection_clean_320
+    21300642: 16ShipCollection_clean_321
+    21300644: 16ShipCollection_clean_322
+    21300646: 16ShipCollection_clean_323
+    21300648: 16ShipCollection_clean_324
+    21300650: 16ShipCollection_clean_325
+    21300652: 16ShipCollection_clean_326
+    21300654: 16ShipCollection_clean_327
+    21300656: 16ShipCollection_clean_328
+    21300658: 16ShipCollection_clean_329
+    21300660: 16ShipCollection_clean_330
+    21300662: 16ShipCollection_clean_331
+    21300664: 16ShipCollection_clean_332
+    21300666: 16ShipCollection_clean_333
+    21300668: 16ShipCollection_clean_334
+    21300670: 16ShipCollection_clean_335
+    21300672: 16ShipCollection_clean_336
+    21300674: 16ShipCollection_clean_337
+    21300676: 16ShipCollection_clean_338
+    21300678: 16ShipCollection_clean_339
+    21300680: 16ShipCollection_clean_340
+    21300682: 16ShipCollection_clean_341
+    21300684: 16ShipCollection_clean_342
+    21300686: 16ShipCollection_clean_343
+    21300688: 16ShipCollection_clean_344
+    21300690: 16ShipCollection_clean_345
+    21300692: 16ShipCollection_clean_346
+    21300694: 16ShipCollection_clean_347
+    21300696: 16ShipCollection_clean_348
+    21300698: 16ShipCollection_clean_349
+    21300700: 16ShipCollection_clean_350
+    21300702: 16ShipCollection_clean_351
+    21300704: 16ShipCollection_clean_352
+    21300706: 16ShipCollection_clean_353
+    21300708: 16ShipCollection_clean_354
+    21300710: 16ShipCollection_clean_355
+    21300712: 16ShipCollection_clean_356
+    21300714: 16ShipCollection_clean_357
+    21300716: 16ShipCollection_clean_358
+    21300718: 16ShipCollection_clean_359
+    21300720: 16ShipCollection_clean_360
+    21300722: 16ShipCollection_clean_361
+    21300724: 16ShipCollection_clean_362
+    21300726: 16ShipCollection_clean_363
+    21300728: 16ShipCollection_clean_364
+    21300730: 16ShipCollection_clean_365
+    21300732: 16ShipCollection_clean_366
+    21300734: 16ShipCollection_clean_367
+    21300736: 16ShipCollection_clean_368
+    21300738: 16ShipCollection_clean_369
+    21300740: 16ShipCollection_clean_370
+    21300742: 16ShipCollection_clean_371
+    21300744: 16ShipCollection_clean_372
+    21300746: 16ShipCollection_clean_373
+    21300748: 16ShipCollection_clean_374
+    21300750: 16ShipCollection_clean_375
+    21300752: 16ShipCollection_clean_376
+    21300754: 16ShipCollection_clean_377
+    21300756: 16ShipCollection_clean_378
+    21300758: 16ShipCollection_clean_379
+    21300760: 16ShipCollection_clean_380
+    21300762: 16ShipCollection_clean_381
+    21300764: 16ShipCollection_clean_382
+    21300766: 16ShipCollection_clean_383
+    21300768: 16ShipCollection_clean_384
+    21300770: 16ShipCollection_clean_385
+    21300772: 16ShipCollection_clean_386
+    21300774: 16ShipCollection_clean_387
+    21300776: 16ShipCollection_clean_388
+    21300778: 16ShipCollection_clean_389
+    21300780: 16ShipCollection_clean_390
+    21300782: 16ShipCollection_clean_391
+    21300784: 16ShipCollection_clean_392
+    21300786: 16ShipCollection_clean_393
+    21300788: 16ShipCollection_clean_394
+    21300790: 16ShipCollection_clean_395
+    21300792: 16ShipCollection_clean_396
+    21300794: 16ShipCollection_clean_397
+    21300796: 16ShipCollection_clean_398
+    21300798: 16ShipCollection_clean_399
+    21300800: 16ShipCollection_clean_400
+    21300802: 16ShipCollection_clean_401
+    21300804: 16ShipCollection_clean_402
+    21300806: 16ShipCollection_clean_403
+    21300808: 16ShipCollection_clean_404
+    21300810: 16ShipCollection_clean_405
+    21300812: 16ShipCollection_clean_406
+    21300814: 16ShipCollection_clean_407
+    21300816: 16ShipCollection_clean_408
+    21300818: 16ShipCollection_clean_409
+    21300820: 16ShipCollection_clean_410
+    21300822: 16ShipCollection_clean_411
+    21300824: 16ShipCollection_clean_412
+    21300826: 16ShipCollection_clean_413
+    21300828: 16ShipCollection_clean_414
+    21300830: 16ShipCollection_clean_415
+    21300832: 16ShipCollection_clean_416
+    21300834: 16ShipCollection_clean_417
+    21300836: 16ShipCollection_clean_418
+    21300838: 16ShipCollection_clean_419
+    21300840: 16ShipCollection_clean_420
+    21300842: 16ShipCollection_clean_421
+    21300844: 16ShipCollection_clean_422
+    21300846: 16ShipCollection_clean_423
+    21300848: 16ShipCollection_clean_424
+    21300850: 16ShipCollection_clean_425
+    21300852: 16ShipCollection_clean_426
+    21300854: 16ShipCollection_clean_427
+    21300856: 16ShipCollection_clean_428
+    21300858: 16ShipCollection_clean_429
+    21300860: 16ShipCollection_clean_430
+    21300862: 16ShipCollection_clean_431
+    21300864: 16ShipCollection_clean_432
+    21300866: 16ShipCollection_clean_433
+    21300868: 16ShipCollection_clean_434
+    21300870: 16ShipCollection_clean_435
+    21300872: 16ShipCollection_clean_436
+    21300874: 16ShipCollection_clean_437
+    21300876: 16ShipCollection_clean_438
+    21300878: 16ShipCollection_clean_439
+    21300880: 16ShipCollection_clean_440
+    21300882: 16ShipCollection_clean_441
+    21300884: 16ShipCollection_clean_442
+    21300886: 16ShipCollection_clean_443
+    21300888: 16ShipCollection_clean_444
+    21300890: 16ShipCollection_clean_445
+    21300892: 16ShipCollection_clean_446
+    21300894: 16ShipCollection_clean_447
+    21300896: 16ShipCollection_clean_448
+    21300898: 16ShipCollection_clean_449
+    21300900: 16ShipCollection_clean_450
+    21300902: 16ShipCollection_clean_452
+    21300904: 16ShipCollection_clean_453
+    21300906: 16ShipCollection_clean_454
+    21300908: 16ShipCollection_clean_455
+    21300910: 16ShipCollection_clean_456
+    21300912: 16ShipCollection_clean_457
+    21300914: 16ShipCollection_clean_458
+    21300916: 16ShipCollection_clean_459
+    21300918: 16ShipCollection_clean_460
+    21300920: 16ShipCollection_clean_461
+    21300922: 16ShipCollection_clean_462
+    21300924: 16ShipCollection_clean_463
+    21300926: 16ShipCollection_clean_464
+    21300928: 16ShipCollection_clean_465
+    21300930: 16ShipCollection_clean_466
+    21300932: 16ShipCollection_clean_467
+    21300934: 16ShipCollection_clean_468
+    21300936: 16ShipCollection_clean_469
+    21300938: 16ShipCollection_clean_470
+    21300940: 16ShipCollection_clean_471
+    21300942: 16ShipCollection_clean_472
+    21300944: 16ShipCollection_clean_473
+    21300946: 16ShipCollection_clean_474
+    21300948: 16ShipCollection_clean_477
+    21300950: 16ShipCollection_clean_478
+    21300952: 16ShipCollection_clean_479
+    21300954: 16ShipCollection_clean_480
+    21300956: 16ShipCollection_clean_481
+    21300958: 16ShipCollection_clean_482
+    21300960: 16ShipCollection_clean_483
+    21300962: 16ShipCollection_clean_484
+    21300964: 16ShipCollection_clean_485
+    21300966: 16ShipCollection_clean_486
+    21300968: 16ShipCollection_clean_487
+    21300970: 16ShipCollection_clean_488
+    21300972: 16ShipCollection_clean_489
+    21300974: 16ShipCollection_clean_490
+    21300976: 16ShipCollection_clean_491
+    21300978: 16ShipCollection_clean_492
+    21300980: 16ShipCollection_clean_493
+    21300982: 16ShipCollection_clean_494
+    21300984: 16ShipCollection_clean_495
+    21300986: 16ShipCollection_clean_496
+    21300988: 16ShipCollection_clean_497
+    21300990: 16ShipCollection_clean_498
+    21300992: 16ShipCollection_clean_499
+    21300994: 16ShipCollection_clean_500
+    21300996: 16ShipCollection_clean_501
+    21300998: 16ShipCollection_clean_502
+    21301000: 16ShipCollection_clean_503
+    21301002: 16ShipCollection_clean_504
+    21301004: 16ShipCollection_clean_505
+    21301006: 16ShipCollection_clean_506
+    21301008: 16ShipCollection_clean_507
+    21301010: 16ShipCollection_clean_508
+    21301012: 16ShipCollection_clean_509
+    21301014: 16ShipCollection_clean_510
+    21301016: 16ShipCollection_clean_511
+    21301018: 16ShipCollection_clean_512
+    21301020: 16ShipCollection_clean_513
+    21301022: 16ShipCollection_clean_514
+    21301024: 16ShipCollection_clean_515
+    21301026: 16ShipCollection_clean_516
+    21301028: 16ShipCollection_clean_451
+    21301030: 16ShipCollection_clean_475
+    21301032: 16ShipCollection_clean_476
+    21301034: 16ShipCollection_clean_517
+    21301036: 16ShipCollection_clean_518
+    21301038: 16ShipCollection_clean_519
+    21301040: 16ShipCollection_clean_520
+    21301042: 16ShipCollection_clean_521
+    21301044: 16ShipCollection_clean_522
+    21301046: 16ShipCollection_clean_523
+    21301048: 16ShipCollection_clean_524
+    21301050: 16ShipCollection_clean_525
+    21301052: 16ShipCollection_clean_526
+    21301054: 16ShipCollection_clean_527
+    21301056: 16ShipCollection_clean_528
+    21301058: 16ShipCollection_clean_529
+    21301060: 16ShipCollection_clean_530
+    21301062: 16ShipCollection_clean_531
+    21301064: 16ShipCollection_clean_532
+    21301066: 16ShipCollection_clean_533
+    21301068: 16ShipCollection_clean_534
+    21301070: 16ShipCollection_clean_535
+    21301072: 16ShipCollection_clean_536
+    21301074: 16ShipCollection_clean_537
+    21301076: 16ShipCollection_clean_538
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 563
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 563
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 563
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 563
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_21
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 563
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 563
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_24
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 563
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 543
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 543
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_38
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 543
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_41
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_43
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 543
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_47
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_48
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 543
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 543
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_58
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_61
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_63
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_66
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_71
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_73
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_74
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_80
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_85
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_87
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_88
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_91
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_92
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_93
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_96
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_97
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_98
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_99
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 503
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_100
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_104
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_105
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_107
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_108
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_109
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_110
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_111
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_112
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_113
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_114
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_115
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_116
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_117
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_118
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_119
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_121
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_122
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_123
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_124
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_125
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_126
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_127
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_128
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_129
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_130
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_132
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_133
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_134
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_135
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_136
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_137
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_138
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_139
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_140
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_141
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_143
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_144
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_145
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_146
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_147
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_148
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_149
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 464
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_151
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_152
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_153
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_154
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_155
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_156
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_157
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_159
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_160
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_161
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_162
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_163
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_164
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_165
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_166
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_167
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_168
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_169
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_170
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_171
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_172
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_173
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_174
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 443
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_175
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_176
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 423
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_177
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_178
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_179
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_180
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 423
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_182
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_183
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_184
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_185
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_186
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 423
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_187
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_188
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_189
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_190
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_191
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 423
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_192
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_193
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_194
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_195
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_196
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 423
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_197
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_198
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_199
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 423
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_200
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_201
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 404
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_202
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_203
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_204
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_205
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_206
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 404
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_207
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_208
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_209
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_210
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_211
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 404
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_212
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_213
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_214
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_215
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_216
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 404
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_217
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_218
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_219
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_220
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 404
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_221
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 404
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_222
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_223
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_224
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 404
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_225
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 385
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_226
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 382
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_227
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 382
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_228
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_229
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_230
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 385
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_231
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_232
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 382
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_233
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_234
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_235
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 385
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_236
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 382
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_237
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 382
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_238
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_239
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_240
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 385
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_241
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 382
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_242
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 382
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_243
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_244
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_245
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 385
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_246
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 382
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_247
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 382
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_248
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_249
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 384
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_250
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 365
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_251
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_252
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_253
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_254
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_255
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 365
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_256
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_257
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_258
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_259
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_260
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 365
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_261
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_262
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_263
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_264
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_265
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 365
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_266
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_267
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_268
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_269
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_270
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 365
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_271
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_272
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_273
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_274
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_275
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_276
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_277
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_278
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_279
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_280
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_281
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_282
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_283
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_284
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_285
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_286
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_287
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_288
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_289
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_290
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_291
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_292
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_293
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_294
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_295
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_296
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_297
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_298
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_299
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_300
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_301
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_302
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_303
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_304
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_305
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_306
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_307
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_308
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_309
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_310
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_311
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_312
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_313
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_314
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_315
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_316
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_317
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_318
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_319
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_320
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_321
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_322
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_323
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_324
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 323
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_325
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_326
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_327
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_328
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_329
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_330
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_331
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_332
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_333
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_334
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_335
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_336
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_337
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_338
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_339
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_340
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_341
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_342
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_343
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_344
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_345
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_346
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_347
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_348
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 303
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_349
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 303
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_350
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_351
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_352
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_353
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_354
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_355
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_356
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_357
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_358
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_359
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_360
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_361
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_362
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_363
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_364
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_365
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_366
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_367
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_368
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_369
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_370
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_371
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 283
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_372
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_373
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_374
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_375
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_376
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_377
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_378
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_379
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_380
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_381
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_382
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_383
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_384
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_385
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_386
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_387
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_388
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_389
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_390
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_391
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_392
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_393
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_394
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_395
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_396
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_397
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 263
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_398
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_399
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_400
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_401
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_402
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 243
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_403
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_404
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_405
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_406
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_407
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 243
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_408
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_409
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_410
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_411
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_412
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 243
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_413
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_414
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_415
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_416
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_417
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 243
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_418
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_419
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_420
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_421
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 243
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_422
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 243
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_423
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_424
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 242
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_425
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_426
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_427
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_428
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_429
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_430
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_431
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_432
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_433
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_434
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_435
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_436
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 223
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_437
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_438
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_439
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_440
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_441
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 223
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_442
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_443
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_444
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_445
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 224
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_446
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 223
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_447
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_448
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_449
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_450
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 203
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_452
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 203
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_453
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_454
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_455
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 203
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_456
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 203
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_457
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_458
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_459
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_460
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 203
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_461
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 203
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_462
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_463
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_464
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_465
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 203
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_466
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 203
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_467
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_468
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_469
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_470
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 203
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_471
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 203
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_472
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_473
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_474
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_477
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_478
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_479
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 139
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_480
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_481
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 142
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_482
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_483
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_484
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_485
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_486
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_487
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 138
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_488
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_489
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 140
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_490
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_491
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 142
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_492
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 118
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_493
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 119
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_494
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_495
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_496
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_497
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_498
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_499
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_500
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_501
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 102
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_502
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_503
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_504
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_505
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_506
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_507
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 58
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_508
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_509
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_510
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_511
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 62
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_512
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 38
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_513
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 39
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_514
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_515
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_516
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 42
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_451
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_475
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_476
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_517
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_518
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_519
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_520
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_521
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_522
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_523
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_524
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_525
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_526
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_527
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_528
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_529
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_530
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_531
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_532
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_533
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_534
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_535
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_536
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_537
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 16ShipCollection_clean_538
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

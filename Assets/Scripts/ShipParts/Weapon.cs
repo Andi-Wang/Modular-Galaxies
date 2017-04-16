@@ -75,7 +75,7 @@ public class Weapon : MonoBehaviour {
     };
 
     private static float[] drains = new float[] {
-        0, 0, 0, 0, 0, //Frame 1: Sparrow
+        14.5f, 13.5f, 13.0f, 12.5f, 12.5f, //Frame 1: Sparrow
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
@@ -98,7 +98,7 @@ public class Weapon : MonoBehaviour {
     };
 
     private static float[] cooldowns = new float[] {
-        0, 0, 0, 0, 0, //Frame 1: Sparrow
+        0.350f, 0.325f, 0.300f, 0.275f, 0.250f, //Frame 1: Sparrow
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
@@ -119,6 +119,30 @@ public class Weapon : MonoBehaviour {
         0, 0, 0, 0, 0, //Frame 17: Albatross
         0, 0, 0, 0, 0  //Frame 18: Condor
     };
+
+    private static float[] damages = new float[] {
+        20.0f, 20.0f, 20.0f, 20.0f, 20.0f, //Frame 1: Sparrow
+        0, 0, 0, 0, 0, //Frame 2: Lark
+        0, 0, 0, 0, 0, //Frame 3: Shrike
+        0, 0, 0, 0, 0, //Frame 4: Pigeon
+        0, 0, 0, 0, 0, //Frame 5: Astrapia
+        0, 0, 0, 0, 0, //Frame 6: Magpie
+
+        0, 0, 0, 0, 0, //Frame 7: Nightjar
+        0, 0, 0, 0, 0, //Frame 8: Falcon
+        0, 0, 0, 0, 0, //Frame 9: Kite
+        0, 0, 0, 0, 0, //Frame 10: Gull
+        0, 0, 0, 0, 0, //Frame 11: Osprey
+        0, 0, 0, 0, 0, //Frame 12: Eagle
+
+        0, 0, 0, 0, 0, //Frame 13: Peafowl
+        0, 0, 0, 0, 0, //Frame 14: Crane
+        0, 0, 0, 0, 0, //Frame 15: Pelican
+        0, 0, 0, 0, 0, //Frame 16: Vulture
+        0, 0, 0, 0, 0, //Frame 17: Albatross
+        0, 0, 0, 0, 0  //Frame 18: Condor
+    };
+
 
     public static string name(int tier) {
         if (tier > 0 && tier <= names.Length) {
@@ -147,6 +171,12 @@ public class Weapon : MonoBehaviour {
     public static float cooldown(int tier) {
         if (tier > 0 && tier <= cooldowns.Length) {
             return cooldowns[tier - 1];
+        }
+        else return 0;
+    }
+    public static float damage(int tier) {
+        if (tier > 0 && tier <= damages.Length) {
+            return damages[tier - 1];
         }
         else return 0;
     }

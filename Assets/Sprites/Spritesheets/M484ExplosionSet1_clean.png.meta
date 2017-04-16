@@ -1,0 +1,3184 @@
+fileFormatVersion: 2
+guid: e1352529a44e6644bb579bafa40c5e41
+timeCreated: 1492293976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M484ExplosionSet1_clean_0
+    21300002: M484ExplosionSet1_clean_1
+    21300004: M484ExplosionSet1_clean_2
+    21300006: M484ExplosionSet1_clean_3
+    21300008: M484ExplosionSet1_clean_4
+    21300010: M484ExplosionSet1_clean_6
+    21300012: M484ExplosionSet1_clean_7
+    21300014: M484ExplosionSet1_clean_8
+    21300016: M484ExplosionSet1_clean_9
+    21300018: M484ExplosionSet1_clean_10
+    21300020: M484ExplosionSet1_clean_11
+    21300022: M484ExplosionSet1_clean_12
+    21300024: M484ExplosionSet1_clean_13
+    21300026: M484ExplosionSet1_clean_14
+    21300028: M484ExplosionSet1_clean_15
+    21300030: M484ExplosionSet1_clean_16
+    21300032: M484ExplosionSet1_clean_17
+    21300034: M484ExplosionSet1_clean_18
+    21300036: M484ExplosionSet1_clean_20
+    21300038: M484ExplosionSet1_clean_21
+    21300040: M484ExplosionSet1_clean_22
+    21300042: M484ExplosionSet1_clean_23
+    21300044: M484ExplosionSet1_clean_24
+    21300046: M484ExplosionSet1_clean_25
+    21300048: M484ExplosionSet1_clean_26
+    21300050: M484ExplosionSet1_clean_27
+    21300052: M484ExplosionSet1_clean_28
+    21300054: M484ExplosionSet1_clean_29
+    21300056: M484ExplosionSet1_clean_33
+    21300058: M484ExplosionSet1_clean_34
+    21300060: M484ExplosionSet1_clean_35
+    21300062: M484ExplosionSet1_clean_36
+    21300064: M484ExplosionSet1_clean_37
+    21300066: M484ExplosionSet1_clean_38
+    21300068: M484ExplosionSet1_clean_39
+    21300070: M484ExplosionSet1_clean_40
+    21300072: M484ExplosionSet1_clean_41
+    21300074: M484ExplosionSet1_clean_42
+    21300076: M484ExplosionSet1_clean_43
+    21300078: M484ExplosionSet1_clean_44
+    21300080: M484ExplosionSet1_clean_45
+    21300082: M484ExplosionSet1_clean_46
+    21300084: M484ExplosionSet1_clean_47
+    21300086: M484ExplosionSet1_clean_48
+    21300088: M484ExplosionSet1_clean_49
+    21300090: M484ExplosionSet1_clean_52
+    21300092: M484ExplosionSet1_clean_53
+    21300094: M484ExplosionSet1_clean_54
+    21300096: M484ExplosionSet1_clean_55
+    21300098: M484ExplosionSet1_clean_56
+    21300100: M484ExplosionSet1_clean_57
+    21300102: M484ExplosionSet1_clean_58
+    21300104: M484ExplosionSet1_clean_59
+    21300106: M484ExplosionSet1_clean_60
+    21300108: M484ExplosionSet1_clean_61
+    21300110: M484ExplosionSet1_clean_62
+    21300112: M484ExplosionSet1_clean_63
+    21300114: M484ExplosionSet1_clean_64
+    21300116: M484ExplosionSet1_clean_68
+    21300118: M484ExplosionSet1_clean_69
+    21300120: M484ExplosionSet1_clean_70
+    21300122: M484ExplosionSet1_clean_71
+    21300124: M484ExplosionSet1_clean_72
+    21300126: M484ExplosionSet1_clean_73
+    21300128: M484ExplosionSet1_clean_74
+    21300130: M484ExplosionSet1_clean_75
+    21300132: M484ExplosionSet1_clean_76
+    21300134: M484ExplosionSet1_clean_77
+    21300136: M484ExplosionSet1_clean_78
+    21300138: M484ExplosionSet1_clean_80
+    21300140: M484ExplosionSet1_clean_81
+    21300142: M484ExplosionSet1_clean_82
+    21300144: M484ExplosionSet1_clean_83
+    21300146: M484ExplosionSet1_clean_84
+    21300148: M484ExplosionSet1_clean_85
+    21300150: M484ExplosionSet1_clean_86
+    21300152: M484ExplosionSet1_clean_87
+    21300154: M484ExplosionSet1_clean_88
+    21300156: M484ExplosionSet1_clean_89
+    21300158: M484ExplosionSet1_clean_90
+    21300160: M484ExplosionSet1_clean_91
+    21300162: M484ExplosionSet1_clean_92
+    21300164: M484ExplosionSet1_clean_94
+    21300166: M484ExplosionSet1_clean_95
+    21300168: M484ExplosionSet1_clean_96
+    21300170: M484ExplosionSet1_clean_97
+    21300172: M484ExplosionSet1_clean_98
+    21300174: M484ExplosionSet1_clean_99
+    21300176: M484ExplosionSet1_clean_100
+    21300178: M484ExplosionSet1_clean_101
+    21300180: M484ExplosionSet1_clean_102
+    21300182: M484ExplosionSet1_clean_103
+    21300184: M484ExplosionSet1_clean_107
+    21300186: M484ExplosionSet1_clean_108
+    21300188: M484ExplosionSet1_clean_109
+    21300190: M484ExplosionSet1_clean_110
+    21300192: M484ExplosionSet1_clean_111
+    21300194: M484ExplosionSet1_clean_112
+    21300196: M484ExplosionSet1_clean_113
+    21300198: M484ExplosionSet1_clean_114
+    21300200: M484ExplosionSet1_clean_115
+    21300202: M484ExplosionSet1_clean_116
+    21300204: M484ExplosionSet1_clean_117
+    21300206: M484ExplosionSet1_clean_118
+    21300208: M484ExplosionSet1_clean_119
+    21300210: M484ExplosionSet1_clean_120
+    21300212: M484ExplosionSet1_clean_121
+    21300214: M484ExplosionSet1_clean_122
+    21300216: M484ExplosionSet1_clean_123
+    21300218: M484ExplosionSet1_clean_126
+    21300220: M484ExplosionSet1_clean_127
+    21300222: M484ExplosionSet1_clean_128
+    21300224: M484ExplosionSet1_clean_129
+    21300226: M484ExplosionSet1_clean_130
+    21300228: M484ExplosionSet1_clean_131
+    21300230: M484ExplosionSet1_clean_132
+    21300232: M484ExplosionSet1_clean_133
+    21300234: M484ExplosionSet1_clean_134
+    21300236: M484ExplosionSet1_clean_135
+    21300238: M484ExplosionSet1_clean_136
+    21300240: M484ExplosionSet1_clean_137
+    21300242: M484ExplosionSet1_clean_138
+    21300244: M484ExplosionSet1_clean_142
+    21300246: M484ExplosionSet1_clean_143
+    21300248: M484ExplosionSet1_clean_144
+    21300250: M484ExplosionSet1_clean_145
+    21300252: M484ExplosionSet1_clean_146
+    21300254: M484ExplosionSet1_clean_148
+    21300256: M484ExplosionSet1_clean_149
+    21300258: M484ExplosionSet1_clean_150
+    21300260: M484ExplosionSet1_clean_151
+    21300262: M484ExplosionSet1_clean_152
+    21300264: M484ExplosionSet1_clean_154
+    21300266: M484ExplosionSet1_clean_155
+    21300268: M484ExplosionSet1_clean_156
+    21300270: M484ExplosionSet1_clean_157
+    21300272: M484ExplosionSet1_clean_158
+    21300274: M484ExplosionSet1_clean_159
+    21300276: M484ExplosionSet1_clean_160
+    21300278: M484ExplosionSet1_clean_161
+    21300280: M484ExplosionSet1_clean_162
+    21300282: M484ExplosionSet1_clean_163
+    21300284: M484ExplosionSet1_clean_164
+    21300286: M484ExplosionSet1_clean_165
+    21300288: M484ExplosionSet1_clean_166
+    21300290: M484ExplosionSet1_clean_168
+    21300292: M484ExplosionSet1_clean_169
+    21300294: M484ExplosionSet1_clean_170
+    21300296: M484ExplosionSet1_clean_171
+    21300298: M484ExplosionSet1_clean_172
+    21300300: M484ExplosionSet1_clean_173
+    21300302: M484ExplosionSet1_clean_174
+    21300304: M484ExplosionSet1_clean_175
+    21300306: M484ExplosionSet1_clean_176
+    21300308: M484ExplosionSet1_clean_177
+    21300310: M484ExplosionSet1_clean_181
+    21300312: M484ExplosionSet1_clean_182
+    21300314: M484ExplosionSet1_clean_183
+    21300316: M484ExplosionSet1_clean_184
+    21300318: M484ExplosionSet1_clean_185
+    21300320: M484ExplosionSet1_clean_186
+    21300322: M484ExplosionSet1_clean_187
+    21300324: M484ExplosionSet1_clean_188
+    21300326: M484ExplosionSet1_clean_189
+    21300328: M484ExplosionSet1_clean_190
+    21300330: M484ExplosionSet1_clean_191
+    21300332: M484ExplosionSet1_clean_192
+    21300334: M484ExplosionSet1_clean_193
+    21300336: M484ExplosionSet1_clean_194
+    21300338: M484ExplosionSet1_clean_195
+    21300340: M484ExplosionSet1_clean_196
+    21300342: M484ExplosionSet1_clean_197
+    21300344: M484ExplosionSet1_clean_200
+    21300346: M484ExplosionSet1_clean_201
+    21300348: M484ExplosionSet1_clean_202
+    21300350: M484ExplosionSet1_clean_203
+    21300352: M484ExplosionSet1_clean_204
+    21300354: M484ExplosionSet1_clean_205
+    21300356: M484ExplosionSet1_clean_206
+    21300358: M484ExplosionSet1_clean_207
+    21300360: M484ExplosionSet1_clean_208
+    21300362: M484ExplosionSet1_clean_209
+    21300364: M484ExplosionSet1_clean_210
+    21300366: M484ExplosionSet1_clean_211
+    21300368: M484ExplosionSet1_clean_212
+    21300370: M484ExplosionSet1_clean_216
+    21300372: M484ExplosionSet1_clean_217
+    21300374: M484ExplosionSet1_clean_218
+    21300376: M484ExplosionSet1_clean_219
+    21300378: M484ExplosionSet1_clean_220
+    21300380: M484ExplosionSet1_clean_5
+    21300382: M484ExplosionSet1_clean_19
+    21300384: M484ExplosionSet1_clean_30
+    21300386: M484ExplosionSet1_clean_31
+    21300388: M484ExplosionSet1_clean_32
+    21300390: M484ExplosionSet1_clean_50
+    21300392: M484ExplosionSet1_clean_51
+    21300394: M484ExplosionSet1_clean_65
+    21300396: M484ExplosionSet1_clean_66
+    21300398: M484ExplosionSet1_clean_67
+    21300400: M484ExplosionSet1_clean_79
+    21300402: M484ExplosionSet1_clean_93
+    21300404: M484ExplosionSet1_clean_104
+    21300406: M484ExplosionSet1_clean_105
+    21300408: M484ExplosionSet1_clean_106
+    21300410: M484ExplosionSet1_clean_124
+    21300412: M484ExplosionSet1_clean_125
+    21300414: M484ExplosionSet1_clean_139
+    21300416: M484ExplosionSet1_clean_140
+    21300418: M484ExplosionSet1_clean_141
+    21300420: M484ExplosionSet1_clean_147
+    21300422: M484ExplosionSet1_clean_153
+    21300424: M484ExplosionSet1_clean_167
+    21300426: M484ExplosionSet1_clean_178
+    21300428: M484ExplosionSet1_clean_179
+    21300430: M484ExplosionSet1_clean_180
+    21300432: M484ExplosionSet1_clean_198
+    21300434: M484ExplosionSet1_clean_199
+    21300436: M484ExplosionSet1_clean_213
+    21300438: M484ExplosionSet1_clean_214
+    21300440: M484ExplosionSet1_clean_215
+    21300442: M484ExplosionSet1_clean_221
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_14
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_22
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_23
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_24
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_25
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_41
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_45
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_52
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_56
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_58
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_59
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_60
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_61
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_62
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_63
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_64
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_73
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_75
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_80
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_82
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_83
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_85
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_86
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_88
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_89
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_91
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_92
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_94
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_95
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_96
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_97
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_98
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_99
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_100
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_103
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_107
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_108
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_109
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_110
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_111
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_112
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_113
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_115
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_116
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_117
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_118
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_119
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_121
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_123
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_126
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_127
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_128
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_129
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_130
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_131
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_132
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_133
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_134
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_135
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_136
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_137
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_138
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_143
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_145
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_146
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_148
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_149
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_150
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_151
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_152
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_154
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_155
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_156
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_157
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_159
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_160
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_161
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_162
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_163
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_164
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_165
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_166
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_168
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_169
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_170
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_171
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_172
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_173
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_174
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_175
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_177
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_181
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_182
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_183
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_184
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_185
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_186
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_187
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_188
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_189
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_190
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_191
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_192
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_193
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_194
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_195
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_196
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_197
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_200
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_201
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_202
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_203
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_204
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_205
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_206
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_207
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_208
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_209
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_210
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_211
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_212
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_216
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_217
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_218
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_219
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_220
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 360
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 330
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_104
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_105
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_106
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_124
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_125
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_139
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 189
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_140
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_141
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_147
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_153
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_178
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_179
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_180
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_198
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_199
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_213
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_214
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_215
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484ExplosionSet1_clean_221
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

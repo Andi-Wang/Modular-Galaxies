@@ -75,7 +75,7 @@ public class Special : MonoBehaviour {
     };
 
     private static float[] drains = new float[] {
-        0, 0, 0, 0, 0, //Frame 1: Sparrow
+        0.55f, 0.60f, 0.65f, 0.70f, 0.75f, //Frame 1: Sparrow
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
@@ -98,7 +98,30 @@ public class Special : MonoBehaviour {
     };
 
     private static float[] cooldowns = new float[] {
-        0, 0, 0, 0, 0, //Frame 1: Sparrow
+        -0.500f, -0.500f, -0.500f, -0.500f, -0.500f, //Frame 1: Sparrow
+        0, 0, 0, 0, 0, //Frame 2: Lark
+        0, 0, 0, 0, 0, //Frame 3: Shrike
+        0, 0, 0, 0, 0, //Frame 4: Pigeon
+        0, 0, 0, 0, 0, //Frame 5: Astrapia
+        0, 0, 0, 0, 0, //Frame 6: Magpie
+
+        0, 0, 0, 0, 0, //Frame 7: Nightjar
+        0, 0, 0, 0, 0, //Frame 8: Falcon
+        0, 0, 0, 0, 0, //Frame 9: Kite
+        0, 0, 0, 0, 0, //Frame 10: Gull
+        0, 0, 0, 0, 0, //Frame 11: Osprey
+        0, 0, 0, 0, 0, //Frame 12: Eagle
+
+        0, 0, 0, 0, 0, //Frame 13: Peafowl
+        0, 0, 0, 0, 0, //Frame 14: Crane
+        0, 0, 0, 0, 0, //Frame 15: Pelican
+        0, 0, 0, 0, 0, //Frame 16: Vulture
+        0, 0, 0, 0, 0, //Frame 17: Albatross
+        0, 0, 0, 0, 0  //Frame 18: Condor
+    };
+
+    private static float[] powers = new float[] {
+        0.55f, 0.60f, 0.65f, 0.70f, 0.75f, //Frame 1: Sparrow
         0, 0, 0, 0, 0, //Frame 2: Lark
         0, 0, 0, 0, 0, //Frame 3: Shrike
         0, 0, 0, 0, 0, //Frame 4: Pigeon
@@ -147,6 +170,12 @@ public class Special : MonoBehaviour {
     public static float cooldown(int tier) {
         if (tier > 0 && tier <= cooldowns.Length) {
             return cooldowns[tier - 1];
+        }
+        else return 0;
+    }
+    public static float power(int tier) {
+        if (tier > 0 && tier <= powers.Length) {
+            return powers[tier - 1];
         }
         else return 0;
     }

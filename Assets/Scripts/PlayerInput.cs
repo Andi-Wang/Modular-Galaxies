@@ -45,16 +45,17 @@ namespace UnityStandardAssets._2D {
         // Update is called once per frame
         private void Update() {
             if (!input.fireDown)        { input.fireDown = CrossPlatformInputManager.GetButtonDown("Fire"); }
-            if (!input.fireUp)          { input.fireDown = CrossPlatformInputManager.GetButtonUp("Fire"); }
-            if (!input.specialDown)     { input.fireDown = CrossPlatformInputManager.GetButtonDown("Special"); }
-            if (!input.specialUp)       { input.fireDown = CrossPlatformInputManager.GetButtonUp("Special"); }
-            if (!input.afterburnerDown) { input.fireDown = CrossPlatformInputManager.GetButtonDown("Afterburner"); }
-            if (!input.afterburnerUp)   { input.fireDown = CrossPlatformInputManager.GetButtonUp("Afterburner"); }
+            if (!input.fireUp)          { input.fireUp = CrossPlatformInputManager.GetButtonUp("Fire"); }
+            if (!input.specialDown)     { input.specialDown = CrossPlatformInputManager.GetButtonDown("Special"); }
+            if (!input.specialUp)       { input.specialUp = CrossPlatformInputManager.GetButtonUp("Special"); }
+            if (!input.afterburnerDown) { input.afterburnerDown = CrossPlatformInputManager.GetButtonDown("Afterburner"); }
+            if (!input.afterburnerUp)   { input.afterburnerUp = CrossPlatformInputManager.GetButtonUp("Afterburner"); }
         }
 
         private void FixedUpdate() {
             input.fireHold = CrossPlatformInputManager.GetButton("Fire");
             input.specialHold = CrossPlatformInputManager.GetButton("Special");
+            input.afterburnerHold = CrossPlatformInputManager.GetButton("Afterburner");
             input.horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
             input.vertical = CrossPlatformInputManager.GetAxis("Vertical");
 
