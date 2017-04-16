@@ -146,13 +146,13 @@ public class Hangar : MonoBehaviour {
         updateLimits();
         toggleColorChange(source);
     }
-    public void toggleWeapon(Toggle source) {
-        selectedWeapon = source.gameObject.transform.GetSiblingIndex();
+    public void toggleArmor(Toggle source) {
+        selectedArmor = source.gameObject.transform.GetSiblingIndex();
         updateLimits();
         toggleColorChange(source);
     }
-    public void toggleArmor(Toggle source) {
-        selectedArmor = source.gameObject.transform.GetSiblingIndex();
+    public void toggleWeapon(Toggle source) {
+        selectedWeapon = source.gameObject.transform.GetSiblingIndex();
         updateLimits();
         toggleColorChange(source);
     }
@@ -204,9 +204,9 @@ public class Hangar : MonoBehaviour {
         return Computer.complexity(selectedComputer) >= Weapon.complexity(selectedWeapon) + Special.complexity(selectedSpecial);
     }
     private void updateLimits() {
-        space.text = Engine.space(selectedEngine) + Armor.space(selectedArmor) + " / " + Frame.space(selectedFrame);
-        weight.text = Computer.weight(selectedComputer) + Engine.weight(selectedEngine) + Energy.weight(selectedEnergy) + Armor.weight(selectedArmor) + Weapon.weight(selectedWeapon) /*+ special.weight*/ + " / " + Frame.weight(selectedFrame);
-        complexity.text = Weapon.complexity(selectedWeapon) + Special.complexity(selectedSpecial) + " / " + Computer.complexity(selectedComputer);
+        space.text = "Space\n" + (Engine.space(selectedEngine) + Armor.space(selectedArmor)) + " / " + Frame.space(selectedFrame);
+        weight.text = "Weight\n" + (Computer.weight(selectedComputer) + Engine.weight(selectedEngine) + Energy.weight(selectedEnergy) + Armor.weight(selectedArmor) + Weapon.weight(selectedWeapon) + Special.weight(selectedSpecial)) + " / " + Frame.weight(selectedFrame);
+        complexity.text = "Complexity\n" + (Weapon.complexity(selectedWeapon) + Special.complexity(selectedSpecial)) + " / " + Computer.complexity(selectedComputer);
 
         if (!validateSpace()) { space.color = Color.red; }
         else { space.color = textColor; }
