@@ -27,6 +27,6 @@ public class WeaponContentManager : ContentManager {
     }
 
     protected override bool hideCondition(int index) {
-        return (!ownedCheck(index) || (hangarScript.selectedFrame - 1) / Frame.MAX_MK + 1 != (index + Weapon.NUM_PER_FRAME - 1) / Weapon.NUM_PER_FRAME) && index > 0;
+        return (!ownedCheck(index) || (hangarScript.selectedFrame - 1) / Frame.MAX_MK + 1 != (index + Weapon.NUM_PER_FRAME - 1) / Weapon.NUM_PER_FRAME || hangarScript.selectedFrame == 0) && index > 0;
     }
 }

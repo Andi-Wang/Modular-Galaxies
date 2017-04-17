@@ -39,6 +39,14 @@ public class Hangar : MonoBehaviour {
     public Text space;
     public Text complexity;
 
+    public FrameContentManager frameManager;
+    public ComputerContentManager computerManager;
+    public EnergyContentManager energyManager;
+    public EngineContentManager engineManager;
+    public ArmorContentManager armorManager;
+    public WeaponContentManager weaponManager;
+    public SpecialContentManager specialManager;
+
     private Color textColor = new Color(150f / 255f, 160f / 255f, 180f / 255f);
 
 
@@ -51,17 +59,14 @@ public class Hangar : MonoBehaviour {
         armorOwned = new bool[1 + 3 * Armor.MODULES_PER_SIZE];
         weaponOwned = new bool[1 + frameOwned.Length * Weapon.NUM_PER_FRAME];
         specialOwned = new bool[1 + frameOwned.Length * Special.NUM_PER_FRAME];
-
-        frameOwned[0] = true;
-        weaponOwned[0] = true;
-        specialOwned[0] = true;
-
+        
         /*
+        frameOwned[0] = true;
         for(int i = 1; i <= 18; i++) {
             frameOwned[i * Frame.MAX_MK] = true;
         }*/
 
-        for(int i = 0; i < frameOwned.Length; i++) {
+        for (int i = 0; i < frameOwned.Length; i++) {
             frameOwned[i] = true;
         }
 
@@ -74,6 +79,12 @@ public class Hangar : MonoBehaviour {
             engineOwned[i] = true;
             energyOwned[i] = true;
         }
+
+        updateShownContent();
+    }
+
+    private void OnEnable() {
+        updateShownContent();
     }
 
 
@@ -86,13 +97,18 @@ public class Hangar : MonoBehaviour {
                 modulePanel.transform.GetChild(i).gameObject.SetActive(false);
             }
         }
-
     }
 
 
 
     private void confirm () {
-        if(validateSpace() && validateWeight() && validateComplexity()) {
+        if(!(validateSpace() && validateWeight() && validateComplexity())) {
+            //Play error sound and print message
+        }
+        else if(false/*selectedFrame == 0 || selectedComputer == 0 || selectedEnergy == 0 || selectedEngine == 0 || selectedWeapon == 0*/) {
+            //Play error sound and print message
+        }
+        else {
             GameObject activeShip = null;
             for(int i = 0; i < playerShipPool.transform.childCount; i++) {
                 if(i == Frame.model(selectedFrame) - 1) {
@@ -113,9 +129,6 @@ public class Hangar : MonoBehaviour {
 
             gameObject.SetActive(false);
         }
-        else {
-            //play error sound or message
-        }
     }
 
 
@@ -129,6 +142,7 @@ public class Hangar : MonoBehaviour {
     public void toggleFrame(Toggle source) {
         selectedFrame = source.gameObject.transform.GetSiblingIndex();
         updateLimits();
+        updateShownContent();
         toggleColorChange(source);
     }
     public void toggleComputer(Toggle source) {
@@ -162,10 +176,15 @@ public class Hangar : MonoBehaviour {
         toggleColorChange(source);
     }
 
-
-
-
-
+    public void updateShownContent() {
+        frameManager.updateShown();
+        computerManager.updateShown();
+        energyManager.updateShown();
+        engineManager.updateShown();
+        armorManager.updateShown();
+        weaponManager.updateShown();
+        specialManager.updateShown();
+    }
 
     private void toggleColorChange(Toggle source) {
         Image appearance = source.gameObject.transform.GetChild(0).GetChild(0).GetComponentInChildren<Image>();

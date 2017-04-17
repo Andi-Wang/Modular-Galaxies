@@ -4,27 +4,9 @@ using UnityEngine;
 
 public class ContentManager : MonoBehaviour {
     public Hangar hangarScript;
-    protected float updateTimer = 2f;
     protected int numColumns = 6;
 
-    private void Update() {
-        if (updateTimer > 1f) {
-            updateShown();
-            updateTimer = 0f;
-        }
-        else {
-            updateTimer += Time.deltaTime;
-        }
-    }
-
-    private void onDisable() {
-        updateTimer = 2f;
-    }
-    private void onEnable() {
-        updateShown();
-    }
-
-    private void updateShown() {
+    public void updateShown() {
         for (int i = 0; i < transform.childCount; i++) {
             if (hideCondition(i)) {
                 transform.GetChild(i).gameObject.SetActive(false);

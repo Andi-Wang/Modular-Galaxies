@@ -34,13 +34,13 @@ namespace UnityStandardAssets._2D {
         }
 
         private Input input;
+        private Camera mainCamera;
         public Ship player;
-        public Camera camera;
 
         // Use this for initialization
         private void Awake() {
             input = new Input();
-            player = gameObject.GetComponent<Ship>();
+            mainCamera = gameObject.GetComponentInParent<GameManager>().mainCamera;
         }
 
         // Update is called once per frame
@@ -62,7 +62,7 @@ namespace UnityStandardAssets._2D {
 
             if (player) {
                 player.move(input);
-                player.clampToCameraBound(camera);
+                player.clampToCameraBound(mainCamera);
             }
             input.reset();
         }
