@@ -7,8 +7,16 @@ public class WeaponContentManager : ContentManager {
     private void Awake() {
         for (int i = 0; i < transform.childCount; i++) {
             transform.GetChild(i).GetChild(1).GetComponentInChildren<Text>().text = Weapon.name(i);
-            transform.GetChild(i).GetChild(2).GetComponentInChildren<Text>().text = Mathf.Round(Weapon.damage(i)) + " / " + Weapon.cooldown(i).ToString() + "\n(" + (Mathf.Round(Weapon.damage(i)/ Weapon.cooldown(i))) + ")";
-            transform.GetChild(i).GetChild(3).GetComponentInChildren<Text>().text = Weapon.drain(i).ToString() + "\n(" + Mathf.Round(Weapon.drain(i) / Weapon.cooldown(i)) + ")";
+
+            string damageString = Mathf.Round(Weapon.damage(i)) + " / " + Weapon.cooldown(i).ToString();
+            string drainString = Weapon.drain(i).ToString();
+            if (i > 0) {
+                damageString += "\n(" + (Mathf.Round(Weapon.damage(i) / Weapon.cooldown(i))) + ")";
+                drainString += "\n(" + Mathf.Round(Weapon.drain(i) / Weapon.cooldown(i)) + ")";
+            }
+
+            transform.GetChild(i).GetChild(2).GetComponentInChildren<Text>().text = damageString;
+            transform.GetChild(i).GetChild(3).GetComponentInChildren<Text>().text = drainString;
             transform.GetChild(i).GetChild(4).GetComponentInChildren<Text>().text = Weapon.complexity(i).ToString();
             transform.GetChild(i).GetChild(5).GetComponentInChildren<Text>().text = Weapon.weight(i).ToString();
         }

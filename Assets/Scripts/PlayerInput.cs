@@ -35,6 +35,7 @@ namespace UnityStandardAssets._2D {
 
         private Input input;
         public Ship player;
+        public Camera camera;
 
         // Use this for initialization
         private void Awake() {
@@ -61,6 +62,7 @@ namespace UnityStandardAssets._2D {
 
             if (player) {
                 player.move(input);
+                player.clampToCameraBound(camera);
             }
             input.reset();
         }

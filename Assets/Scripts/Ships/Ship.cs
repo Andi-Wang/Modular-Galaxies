@@ -59,6 +59,20 @@ public class Ship : MonoBehaviour {
 
         gameObject.transform.position += new Vector3(input.horizontal * speed * Time.fixedDeltaTime, input.vertical * speed * Time.fixedDeltaTime, 0);
     }
+
+    public void clampToCameraBound(Camera camera) {
+        Vector3 sprite = gameObject.GetComponent<SpriteRenderer>().sprite.bounds.max;
+        //Sprite is rotated 90 degrees, so x and y are reversed
+        sprite = new Vector3(sprite.y * gameObject.transform.localScale.y, sprite.x * gameObject.transform.localScale.x);
+
+        Vector3 edge = new Vector3((float)Screen.width / (float)Screen.height * camera.orthographicSize, camera.orthographicSize);
+        Vector3 pos = camera.transform.position;
+
+        float x = Mathf.Clamp(gameObject.transform.position.x, pos.x - edge.x + sprite.x, pos.x + edge.x - sprite.x);
+        float y = Mathf.Clamp(gameObject.transform.position.y, pos.y - edge.y + sprite.y, pos.y + edge.y - sprite.y);
+        gameObject.transform.position = new Vector3(x, y);
+    }
+
     protected virtual bool specialCheck(bool specialDown, bool specialHold) {
         return specialDown || specialHold;
     }
