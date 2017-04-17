@@ -31,7 +31,7 @@ public class Ship : MonoBehaviour {
     protected Text healthText;
     protected Text energyText;
 
-    protected void Awake() {
+    private void Awake() {
         HUD = GameObject.Find("HUD");
         healthbar = HUD.transform.Find("Canvas").Find("Healthbar").Find("Health").GetComponent<Image>();
         healthText = HUD.transform.Find("Canvas").Find("Healthbar").Find("HealthText").GetComponent<Text>();
@@ -57,7 +57,7 @@ public class Ship : MonoBehaviour {
             useSpecial();
         }
 
-        gameObject.transform.position += new Vector3(input.horizontal * speed * Time.fixedDeltaTime, input.vertical * speed * Time.fixedDeltaTime, 0);
+        gameObject.transform.position += new Vector3(input.horizontal * speed * Time.fixedDeltaTime, input.vertical * speed * Time.fixedDeltaTime);
     }
 
     public void clampToCameraBound(Camera camera) {
@@ -81,7 +81,7 @@ public class Ship : MonoBehaviour {
     protected virtual void weaponEffect() {
         //Debug.Log("Weapon activated!");
         GameObject projectile = SimplePool.Spawn(weaponPrefab, transform.position, new Quaternion());
-        projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 20);
+        projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 4f);
         projectile.GetComponent<ProjectileController>().setDamage(weaponDamage);
     }
     protected virtual void specialEffect() {
