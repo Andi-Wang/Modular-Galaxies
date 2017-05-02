@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour {
     public Camera mainCamera;
     public UnityStandardAssets._2D.PlayerInput playerManager;
     public EnemyManager enemyManager;
+    public HUDManager HUDManager;
 
 
 

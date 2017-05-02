@@ -9,6 +9,12 @@ public class Enemy : MonoBehaviour {
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
     }
 
+
+    private void OnBecameInvisible() {
+        SimplePool.Despawn(gameObject);
+    }
+
+
     protected virtual void FixedUpdate() {
         if(spriteRenderer.isVisible) {
             move();

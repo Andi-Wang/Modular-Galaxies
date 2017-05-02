@@ -13,6 +13,7 @@ public class Ship : MonoBehaviour {
     protected float weaponDamage;
     protected float weaponDrain;
     protected float weaponMaxCooldown;
+    protected float specialPower;
     protected float specialDrain;
     protected float specialMaxCooldown;
 
@@ -25,18 +26,10 @@ public class Ship : MonoBehaviour {
     public GameObject specialPrefab;
     protected int specialTier;
 
-    protected GameObject HUD;
-    protected Image healthbar;
-    protected Image energybar;
-    protected Text healthText;
-    protected Text energyText;
+    protected HUDManager HUDManager;
 
     private void Awake() {
-        HUD = GameObject.Find("HUD");
-        healthbar = HUD.transform.Find("Canvas").Find("Healthbar").Find("Health").GetComponent<Image>();
-        healthText = HUD.transform.Find("Canvas").Find("Healthbar").Find("HealthText").GetComponent<Text>();
-        energybar = HUD.transform.Find("Canvas").Find("Energybar").Find("Energy").GetComponent<Image>();
-        energyText = HUD.transform.Find("Canvas").Find("Energybar").Find("EnergyText").GetComponent<Text>();
+        HUDManager = gameObject.transform.parent.GetComponentInParent<GameManager>().HUDManager;
     }
 
    protected virtual void FixedUpdate() {
@@ -49,7 +42,7 @@ public class Ship : MonoBehaviour {
     }
 
 
-    public void move(UnityStandardAssets._2D.PlayerInput.Input input) {
+    public virtual void move(UnityStandardAssets._2D.PlayerInput.Input input) {
         if(input.fireDown || input.fireHold) {
             useWeapon();
         }
@@ -60,7 +53,7 @@ public class Ship : MonoBehaviour {
         gameObject.transform.position += new Vector3(input.horizontal * speed * Time.fixedDeltaTime, input.vertical * speed * Time.fixedDeltaTime);
     }
 
-    public void clampToCameraBound(Camera camera) {
+    public virtual void clampToCameraBound(Camera camera) {
         Vector3 sprite = gameObject.GetComponent<SpriteRenderer>().sprite.bounds.max;
         //Sprite is rotated 90 degrees, so x and y are reversed
         sprite = new Vector3(sprite.y * gameObject.transform.localScale.y, sprite.x * gameObject.transform.localScale.x);
@@ -70,7 +63,10 @@ public class Ship : MonoBehaviour {
 
         float x = Mathf.Clamp(gameObject.transform.position.x, pos.x - edge.x + sprite.x, pos.x + edge.x - sprite.x);
         float y = Mathf.Clamp(gameObject.transform.position.y, pos.y - edge.y + sprite.y, pos.y + edge.y - sprite.y);
-        gameObject.transform.position = new Vector3(x, y);
+
+        float cameraScrollSpeed = camera.gameObject.GetComponent<CameraController>().cameraScrollSpeed;
+
+        gameObject.transform.position = new Vector3(x, y + cameraScrollSpeed * Time.fixedDeltaTime);
     }
 
     protected virtual bool specialCheck(bool specialDown, bool specialHold) {
@@ -90,8 +86,7 @@ public class Ship : MonoBehaviour {
 
     public void takeDamage(float amount) {
         health -= amount;
-        healthbar.fillAmount = health / maxHealth;
-        healthText.text = Mathf.Round(health) + " / " + maxHealth;
+        HUDManager.setPlayerHealth(health, maxHealth);
 
         if(health <= 0) {
             //Player dies
@@ -99,15 +94,13 @@ public class Ship : MonoBehaviour {
     }
     public void addEnergy(float amount) {
         energy = Mathf.Min(energy + amount, maxEnergy);
-        energybar.fillAmount = energy / maxEnergy;
-        energyText.text = Mathf.Round(energy) + " / " + maxEnergy;
+        HUDManager.setPlayerEnergy(energy, maxEnergy);
     }
 
     public bool energyCost(float amount) {
         if (energy >= amount) {
             energy -= amount;
-            energybar.fillAmount = energy / maxEnergy;
-            energyText.text = Mathf.Round(energy) + " / " + maxEnergy;
+            HUDManager.setPlayerEnergy(energy, maxEnergy);
             return true;
         }
         else return false;
@@ -146,15 +139,14 @@ public class Ship : MonoBehaviour {
         weaponDamage = Weapon.damage(weapon);
         weaponDrain = Weapon.drain(weapon);
         weaponMaxCooldown = Weapon.cooldown(weapon);
+        specialPower = Special.power(special);
         specialDrain = Special.drain(special);
         specialMaxCooldown = Special.cooldown(special);
 
         health = maxHealth;
         this.energy = maxEnergy;
-        energybar.fillAmount = 1;
-        healthbar.fillAmount = 1;
-        energyText.text = maxEnergy + " / " + maxEnergy;
-        healthText.text = maxHealth + " / " + maxHealth;
+        HUDManager.setPlayerHealth(health, maxHealth);
+        HUDManager.setPlayerEnergy(energy, maxEnergy);
 
         weaponCooldown = 0;
         specialCooldown = 0;

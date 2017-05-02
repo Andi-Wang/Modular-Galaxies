@@ -4,10 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Hangar : MonoBehaviour {
-    //Base stats associated with the base ship
-    private float hitboxRadius;
-    private float grazeboxRadius; //Narrowly avoiding projectiles, or "grazing", restores some energy (lore: by draining it from the projectile); implement in GrazeboxController by checking when a projectile leaves the graze area
-
     //Selected modules
     public int selectedFrame { private set; get; }
     public int selectedComputer { private set; get; }
@@ -26,10 +22,8 @@ public class Hangar : MonoBehaviour {
     public bool[] weaponOwned { private set; get; }
     public bool[] specialOwned { private set; get; }
 
-
-    //After choosing a valid ship, creates a PlayerShip and attaches it to this playerManager
-    public UnityStandardAssets._2D.PlayerInput playerManager;
-    public GameObject playerShipPool;
+    public GameManager gameManager;
+    public GameObject playerManager;
     public GameObject HUD;
 
     public Image selectPanel;
@@ -48,8 +42,6 @@ public class Hangar : MonoBehaviour {
     public SpecialContentManager specialManager;
 
     private Color textColor = new Color(150f / 255f, 160f / 255f, 180f / 255f);
-
-
 
     private void Awake() {
         frameOwned = new bool[1 + 18 * Frame.MAX_MK];
@@ -87,20 +79,6 @@ public class Hangar : MonoBehaviour {
         updateShownContent();
     }
 
-
-    private void Update() {
-        for(int i = 0; i < selectPanel.transform.childCount; i++) {
-            if(selectPanel.transform.GetChild(i).GetComponent<Toggle>().isOn) {
-                modulePanel.transform.GetChild(i).gameObject.SetActive(true);
-            }
-            else {
-                modulePanel.transform.GetChild(i).gameObject.SetActive(false);
-            }
-        }
-    }
-
-
-
     private void confirm () {
         if(!(validateSpace() && validateWeight() && validateComplexity())) {
             //Play error sound and print message
@@ -110,35 +88,27 @@ public class Hangar : MonoBehaviour {
         }
         else {
             GameObject activeShip = null;
-            for(int i = 0; i < playerShipPool.transform.childCount; i++) {
+            for(int i = 0; i < playerManager.transform.childCount; i++) {
                 if(i == Frame.model(selectedFrame) - 1) {
                     HUD.SetActive(true);
-                    activeShip = playerShipPool.transform.GetChild(i).gameObject;
+                    activeShip = playerManager.transform.GetChild(i).gameObject;
                     activeShip.SetActive(true);
                     activeShip.transform.position = new Vector2();
                 }
                 else {
-                    playerShipPool.transform.GetChild(i).gameObject.SetActive(false);
+                    playerManager.transform.GetChild(i).gameObject.SetActive(false);
                 }
             }
                    
             if(activeShip) {
-                playerManager.player = activeShip.GetComponent<Ship>();
-                playerManager.player.setStatistics(selectedFrame, selectedEngine, selectedEnergy, selectedArmor, selectedWeapon, selectedSpecial);
+                gameManager.playerManager.player = activeShip.GetComponent<Ship>();
+                gameManager.playerManager.player.setStatistics(selectedFrame, selectedEngine, selectedEnergy, selectedArmor, selectedWeapon, selectedSpecial);
             }
 
             gameObject.SetActive(false);
         }
     }
-
-
-
-
-
-
-
-
-
+    
     public void toggleFrame(Toggle source) {
         selectedFrame = source.gameObject.transform.GetSiblingIndex();
         updateLimits();
@@ -209,7 +179,6 @@ public class Hangar : MonoBehaviour {
                 }
             }
         }
-
         appearance.color = new Color(color.r, color.g, color.b, alpha);
     }
 

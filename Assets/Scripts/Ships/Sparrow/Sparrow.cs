@@ -14,19 +14,23 @@ public class Sparrow : Ship {
     protected override void weaponEffect() {
         GameObject projectile;
         if (!specialToggle) {
-            projectile = SimplePool.Spawn(weaponPrefab, transform.position + Vector3.up * .1f, new Quaternion());
+            projectile = SimplePool.Spawn(weaponPrefab, transform.position + Vector3.up * .025f, new Quaternion());
             projectile.GetComponent<ProjectileController>().setDamage(weaponDamage);
         }
         else {
             Vector3 origin = transform.position;
-            if(fireLeft) { origin += (Vector3.left + Vector3.up) * .1f; }
-            else { origin += (Vector3.right + Vector3.up) * .1f; }
+            if(fireLeft) { origin += (Vector3.left + Vector3.up) * .025f; }
+            else { origin += (Vector3.right + Vector3.up) * .025f; }
             fireLeft = !fireLeft;
 
             projectile = SimplePool.Spawn(specialPrefab, origin, new Quaternion());
-            projectile.GetComponent<ProjectileController>().setDamage(weaponDamage * Special.power(specialTier));
+            projectile.GetComponent<ProjectileController>().setDamage(weaponDamage * specialPower);
         }
-        
+
+        //Allows the projectile to deal damage even if spawned inside of an enemy
+        projectile.GetComponent<Collider2D>().enabled = false;
+        projectile.GetComponent<Collider2D>().enabled = true;
+
         projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 5);
     }
     protected override void useSpecial() {
@@ -40,9 +44,9 @@ public class Sparrow : Ship {
             }
         }
         else {
-            if (weaponCooldown <= 0 && energyCost(weaponDrain * Special.drain(specialTier))) {
+            if (weaponCooldown <= 0 && energyCost(weaponDrain * specialDrain)) {
                 weaponEffect();
-                weaponCooldown = weaponMaxCooldown * (1 + Special.cooldown(specialTier));
+                weaponCooldown = weaponMaxCooldown * (1 + specialMaxCooldown);
             }
         }
         

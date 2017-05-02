@@ -5,27 +5,15 @@ using UnityEngine;
 public class ProjectileController : MonoBehaviour {
     public Rigidbody2D projectile;
     protected HashSet<string> validTargets;
-    protected float lifespan;
     protected float damage;
 
 	// Use this for initialization
 	protected void Awake() {
         setValidTargets();
-        setLifespan();
     }
 
-    protected void OnEnable() {
-        //Causes the projectile to deal damage even if it was spawned inside of an enemy
-        gameObject.GetComponent<Collider2D>().enabled = false;
-        gameObject.GetComponent<Collider2D>().enabled = true;
-
-        //Automatically despawns the projectile after it has existed for its full lifespan
-        StartCoroutine(automaticDespawn());
-    }
-
-    
-    IEnumerator automaticDespawn() {
-        yield return new WaitForSeconds(lifespan);
+    //Automatically despawns the projectile when it moves offscreen
+    protected void OnBecameInvisible() {
         SimplePool.Despawn(gameObject);
     }
 
@@ -75,10 +63,6 @@ public class ProjectileController : MonoBehaviour {
     }
     protected virtual void enemyProjectileHit() {
 
-    }
-
-    protected virtual void setLifespan () {
-        lifespan = 2.5f;
     }
     public void setDamage(float amount) {
         damage = amount;

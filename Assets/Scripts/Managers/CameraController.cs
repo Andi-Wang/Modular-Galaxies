@@ -16,8 +16,7 @@ public class CameraController : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	private void FixedUpdate () {
         transform.position += new Vector3(0, cameraScrollSpeed * Time.fixedDeltaTime);
-
 	}
 }
